@@ -1,19 +1,106 @@
 <head>
-  <title>Adith Arun</title>
+  <title>Adith Arun - Personal Webpage</title>
+  <style>
+		.blocktext {
+	    margin-left: auto;
+	    margin-right: auto;
+	    width: 30%;
+      font-size: 16px;
+      font-family: Times New Roman
+		}
+    .pad_main {
+      padding: 10% 0 0 0
+    }
+    .name{
+      color:black;
+      font-size: 150%;
+      font-weight: bold;
+      text-align: center;
+      font-family: Optima
+    }
+    .img {
+        width:31.33%;
+        height:175px;
+        float: left;
+        margin: 1%;
+    }
+  </style>
 </head>
 
 <br />
 <br />
-Adith Arun 
 <br />
 
-<p>
-<a href="about.html">About</a> <br />
-<a href="books.html">Bookshelf</a>  <br />
-<a href="work.html">Work</a>  <br />
-<a href="queue.html">Queue</a> <br />
-<a href="shiny.html">Shiny</a> <br />
-<br />
-Something on here look interesting to you? <a href = "mailto: adith.3.arun@gmail.com"> Drop me a message</a>!
+
+<p class="name blocktext">
+Adith Arun <br />
+<img src="imgs/alaska.JPG" alt="mendenhall glacier" class="img">
+<img src="imgs/compressed.JPG" alt="picture of me" class="img">
+<img src="imgs/jtnp.JPG" alt="joshua tree" class="img">
 </p>
 
+<p class="blocktext pad_main">
+
+Welcome! I am currently a rising junior at Johns Hopkins studying applied math.
+The main things that pique my interest revolve around medicine, finance, healthcare, and technology.
+Specifically, I think that math combined with the right computational elements can power innovation
+when we ask the right questions. The broadest takeaway from my experiences and classes is that life is probabilistic
+ - and I try to operate under that mindset.
+
+<br />
+<br />
+
+I grew up in a small suburb near Sacramento, California where I spent a lot of time playing sports (competitive soccer, and baskebtall).
+I enjoy traveling and exploring new places - walking around, and taking in the local culture. My favorite non-social hobbies include coding, and reading. In the spirit of sharing, my bookshelf is <a href="books.html", target="_blank">here</a>.
+I am always looking to learn more, so feel free to <a href = "mailto: adith.3.arun@gmail.com">reach out</a> with books, or things you find interesting!
+
+<br />
+<br />
+
+Here is a nonexhaustive list of some of the things that I have done:
+</p>
+<ul class="blocktext">
+  <li> Looking at population-level mutations in a nuclear protein (sigmar1) involved in cocaine addiction and thinking about how it fits into the bigger picture of piecing together nuclear structure. <a href="sigmar1.pdf", target="_blank">here</a> </li>
+  <li> Leveraging large public datasets and using gene expression data for a family of proteins, integrins, to suggest anti-cancer drug targets. <a href="integrins.pdf", target="_blank">here</a> </li>
+</ul>
+<ul class="blocktext">
+  <li> A weekly <a href="https://bit.ly/unathletic", target="_blank">podcast</a> with friends where we talk and riff about sports</li>
+  <li> From early on in high school, I was fascinated by people starting their own businesses. But, I was really confused about the process and what it took to get something off the ground. So, as I entered college, I set out to learn by doing, and created an <a href="https://www.demystifycollege.com/", target="_blank">online college consulting service</a>, with a <a href="https://www.jhu.edu/profiles/kale-hyder/", target="_blank">friend</a>. </li>
+  <li> Because of COVID-19 pushing most tech jobs remote, I got pretty interested in figurnig out where a person should live to maximize their spending power.
+    I found articles like <a href=https://www.businessinsider.com/top-one-percent-every-us-state-2016-11, target="_blank">this</a> that say what the top 1% salary is for a given state and a study by <a href=https://www.epi.org/publication/the-new-gilded-age-income-inequality-in-the-u-s-by-state-metropolitan-area-and-county/, target="_blank">EPI</a> looking at income distributions.
+    I wanted to make a tool that people could use to see where there particular income stands in a given place. <i> Check out where your income ranks in a given city, county, or state
+  <a href="income_ranker.html", target="_blank">here</a>! </i> This uses gross SOI tax data from the most recent year available, constructs a MLE for an exponential distribution that
+  best represents the data and shows your income quantile (i.e. your income ranks in the top x% of a given locale). The code can be found <a href="https://github.com/aditharun/income_distr", target="_blank">here</a>. As a couple of my friends pointed out, this could be extended
+  by considering race, gender, age, etc. where you can now compare your income across many different demographics. Plans for development have been made... I just haven't got around to coding it yet.
+  <li> To help sort through the massive amount of GTEX data and easily compare genes of interest across tissues (a problem I ran into), I quickly hacked together an interactive <a href="gene_expression.html", target="_blank">tool</a> (built using R Shiny) that shows the expression of genes across many tissue types and their relative prevalence in a given tissue.
+  There are a lot of avenues for further development...
+</ul>
+
+<p class="blocktext">
+For a list of things I have done and places I have worked, visit my <a href="https://www.linkedin.com/in/aditharun/", target="_blank">LinkedIn</a> (disclaimer: not always updated).
+I am excited by challenging problems, and am always looking to get involved in projects that tackle interesting problems. Please reach out with opportunities over <a href = "mailto: adith.3.arun@gmail.com">email</a>.
+
+<br />
+<br />
+<br />
+Note: The format and simplicity of this site was partially inspired by <a href="https://patrickcollison.com/about">Patrick Collison's site</a>, though he has a lot more to say than me.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
