@@ -1,0 +1,24 @@
+/* webstyle.css */
+.blocktext {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  font-size: 16px;
+  font-family: Times New Roman
+}
+div {
+white-space: nowrap;
+text-align: center
+}
+.name{
+  color:black;
+  font-size: 150%;
+  font-weight: bold;
+  text-align: center;
+  font-family: Optima
+}
+.img {
+    width:200px;
+    height:200px;
+    margin: 0.3%;
+}
