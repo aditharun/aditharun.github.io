@@ -35,6 +35,8 @@ The KS statistic decreases as a function of the number of dice rolls - an expect
 
 So, what does this mean for Catan-like games? I would argue that less emphasis be placed on the theoretical probabilities of rolling a number because of the stark divergence from expectation in 70-roll games. Take advantage of the increased variance in these games and play a little more freely. 
 
+I would be less likely to shy away from placing settlements on 4s and 10s. 
+
 
 
 Adith Arun

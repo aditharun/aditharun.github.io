@@ -9,6 +9,6 @@ title: Posts
 
 * To what extent should you accept the theoretical distribution of dice rolls when making decisions in finite roll board games like Catan? **[some thoughts and simulations](posts/catan-dice-roll-distributions.md)**
 
-* Query genes for differential expression between neuron and non-neuronal brain cell populations**[site](shiny/allen_shiny.html)**
+* Query genes for differential expression between neuron and non-neuronal brain cell populations **[site](shiny/allen_shiny.html)**
 
 * A social ReadCube for passively broadening the science you read **[some thoughts](posts/paper-sharing-platform.md)**
