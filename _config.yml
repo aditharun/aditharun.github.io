@@ -35,7 +35,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/main.jpg"
+avatar: "/assets/img/main.JPG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -264,10 +264,10 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "page"
     values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
+      layout: "page"
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
