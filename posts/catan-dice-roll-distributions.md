@@ -19,7 +19,7 @@ and their decisions reflect that. In my experience, a Catan game with four playe
 
 Here is one realization of the outcomes when two dice are rolled 70 times. 
 
-![Realization_Two_Dice_Rolls](./posts_code/catan_dice_instance.png)
+![Realization_Two_Dice_Rolls](/posts_code/catan_dice_instance.png)
 
 There is significant deviation from the theoretical distribution. For instance, notice that a 2 was not rolled in 70 tries. And, both 3s and 4s were ooverrepresented whereas 8s were grossly underrepresented. In fact, for the most part, there appears to be no real relationship between the empirical (red) and theoretical (blue) frequencies. 
 
@@ -29,7 +29,7 @@ Across 100 70-roll games, the 95% empirical quantiles for the mean roll value is
 
 Now, the most important question with respect to Catan and other such two dice based board games is at what number of rolls does the empirical distribution of dice outcomes effectively equal the theoretical or expected distribution.
 
-We can assess this convergence. First, we simulate an _n_-roll game and note the empirical probabilities. We can measure the deviation of this realization to the theoretical probabilities by looking at the largest absolute difference between the two cumulative distribution functions, the Kolmogorov-Smirnov (KS)statistic. The larger the KS value, the more deviant the empirical dice sums are from the theoretical. Doing this across for many _n_-roll games, repeating it 100 times at each _n_, we observe: ![KS_Catan](./posts_code/catan_ks.png)
+We can assess this convergence. First, we simulate an _n_-roll game and note the empirical probabilities. We can measure the deviation of this realization to the theoretical probabilities by looking at the largest absolute difference between the two cumulative distribution functions, the Kolmogorov-Smirnov (KS)statistic. The larger the KS value, the more deviant the empirical dice sums are from the theoretical. Doing this across for many _n_-roll games, repeating it 100 times at each _n_, we observe: ![KS_Catan](/posts_code/catan_ks.png)
 
 The KS statistic decreases as a function of the number of dice rolls - an expected result. Further, we observe that the variance (approximated by the height of the boxes in the boxplot) increases as the number of rolls decreases - another expected result. Between 100 and 200 roll games, there appears to be a plateau in convergence to the theoretical probabilities. For our purposes, 50 and 75 dice rolls produce sums that are indeed quite different from the theoretical levels. 
 
