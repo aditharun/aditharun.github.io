@@ -18,7 +18,6 @@ navbar-links:
   #About Me: "aboutme"
   Publications: "publications"
   Posts: "posts"
-  Software: "software"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
