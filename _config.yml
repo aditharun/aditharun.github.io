@@ -17,7 +17,7 @@ paginate_path: "/posts/page:num/"
 navbar-links:
   #About Me: "aboutme"
   Publications: "publications"
-  #Posts: "posts"
+  Posts: "posts"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
