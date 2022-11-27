@@ -7,8 +7,8 @@ layout: post
 
 ### Investigating the convergence in distribution of the sum of two dice rolls
 
-_"If the four didn't roll as much as it did, I would have won"._ 
-_"The eight did not roll at all. If it rolled even a few times I would have won."_  
+_"If the four didn't roll as much as it did, I would have won"._  
+_"The eight did not roll at all. If it rolled even a few times I would have won."_    
 
 We hear things like this all the time after a game of Catan. Traditionally, we expect that 7s are rolled twice as often as 4s because there are six different ways to roll a 7 but only three to roll a 4. This expectation is theoretical and true only in the limit after a very large number of rolls. At what number of rolls does the empirical distribution of the sum of two dice rolls converge to the theoretical distribution?  
 
