@@ -16,7 +16,7 @@ Most people implicitly assume that we can use this theoretical distribution in g
 
 Here is one realization of the outcomes when two dice are rolled 70 times.   
 
-![Realization_Two_Dice_Rolls](./posts_code/catan_dice_instance.png)
+![Realization_Two_Dice_Rolls](catan_dice_instance.png)
 
 Notice that a 2 was not rolled in 70 tries. And, both 3s and 4s were overrepresented whereas 8s and 9s wereunderrepresented. There is marked deviation between the empirical (red) and theoretical (blue) frequencies. 
 
@@ -24,7 +24,7 @@ The law of large numbers, LLN, (sample average approaches true mean) ~basically~
 
 Now, the most important question with respect to Catan and other two dice based board games is at what number of rolls does the empirical distribution of dice outcomes effectively resemble the theoretical distribution.
 
-We can assess this convergence. First, we simulate an _n_-roll game and note the empirical probabilities. We can measure the deviation of this realization to the theoretical probabilities by looking at the largest absolute difference between the two cumulative distribution functions, the Kolmogorov-Smirnov (KS) statistic. The larger the KS value, the more deviant the empirical dice sums are from the theoretical. Doing this across for many _n_-roll games, repeating it 100 times at each _n_, we observe: ![KS_Catan](./posts_code/catan_ks.png)
+We can assess this convergence. First, we simulate an _n_-roll game and note the empirical probabilities. We can measure the deviation of this realization to the theoretical probabilities by looking at the largest absolute difference between the two cumulative distribution functions, the Kolmogorov-Smirnov (KS) statistic. The larger the KS value, the more deviant the empirical dice sums are from the theoretical. Doing this across for many _n_-roll games, repeating it 100 times at each _n_, we observe: ![KS_Catan](catan_ks.png)
 
 The KS statistic decreases as the number of dice rolls increases, an expected result. Further, we observe that the variance (approximated by the height of the boxes in the boxplot) increases as the number of rolls decreases - another expected result. Between 100 and 200 roll games, there appears to be a plateau in convergence to the theoretical probabilities. For our purposes, 50 and 75 dice rolls produce distributions that are indeed quite variable and different from the theoretical levels.  
 
