@@ -35,9 +35,6 @@ So, what does this mean for Catan-like games? I would argue that less emphasis b
 Adith Arun
 
 
-[back](/)
-
-
 
 
 

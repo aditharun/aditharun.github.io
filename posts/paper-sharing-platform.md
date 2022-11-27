@@ -19,9 +19,6 @@ This might be useful in passively broadening the papers people read beyond their
 
 
 Adith Arun
-June 2022
-
-[back](./)
 
 
 
