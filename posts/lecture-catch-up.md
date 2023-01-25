@@ -3,42 +3,46 @@ layout: default
 ---
 
 
-### Catching Up on Lectures
+### Catching Up On Lectures
 
-Suppose that every weekday there are lectures. You are trying to keep up but are currently X days behind on lecture. To catch up with lectures Y days from now, how many lectures per day must you watch?
+Suppose that in medical school there are lectures every weekday. You are trying to keep up but are currently X days behind on lecture. To catch up with lectures Y days from now, how many lectures per day must you watch?
 
-We assume that any computation related to the above question happens every day at night. This makes notation easier. If today is Tuesday and you are two days behind on lecture, then you have both Monday and Tuesday lectures to catch up on. 
+For notation, assume that if today is Tuesday and you are two days behind on lecture, then you have lectures from both Monday and Tuesday to catch up on. 
 
-Imagine a number line labelled at each integer. There are two players or dots on this line. The dot labeled 'L' for lecture starts at 0 and the dot labeled 'M' for me starts at 0 - X where X is the number of days behind on lecture that I currently am. 
+Consider the integer number line. There are two dots on this line. The 'L'-dot, lecture dot, starts at 0 and the 'M'-dot, me dot, starts at 0 - X where X is the number of days behind on lecture that I currently am. 
 
-Now, the L-dot has a pre-determined moving pattern. It moves up by 1 for 5 times, then by 0 for 2 times, and repeats its behavior in perpetuity. This models lectures being on weekdays and never on weekends. The M-dot has agency. We can now ask: 
+Now, the L-dot has a pre-determined moving pattern. It moves foward by one 5 times in a row (weekdays), then does not move for 2 time steps (weekends). It repeats its behavior in perpetuity.
 
-	- At an average rate of Z moves (lectures) per time step (day), at what value will the L-dot and M-dot meet? This number is the number of days from now that I will be caught up.
-
-	- If I want to be caught up in T days, what must my average rate of movement be per day?
-
-We can model the L-dot's movement as such: 
+We can model L-dot's movement as: 
 	
-	$$L_{x} = if (x mod 6 | x mod 7) = 0 then L_{x-1} else L_{x-1} + 1$$ 
+	$$L_{d}$$ = if (d mod 6 | d mod 7) = 0 then $$L_{d-1}$$ else $$L_{d-1} + 1$$ 
 
-x refers to the day count, starting at 1 where $$L_0 = 0$$
+where d refers to the day count; d starts at 0 and, by definition, $$L_0 = 0$$ 
 
-We can model the M-dot's movement as such for the first question: 
-
-	- M_x = M_0 + Z*x where M_d is the position of M at day x, M_0 is the number of days behind to start, and Z is the average number of lectures consumed per day
-
-
-Let us tackle the question of: given an average rate of lecture catch up per day, how many days from now will I be caught up? We seek to find the first value of x for which M_x >= L_x. We can solve this with a simple simulation. 
+We can model M-dot's movement as: 
+	
+	$$M_x = M_0 + Z*x$$ where $$M_x$$ is the position of M at day x, $$M_0$$ is the number of days I am currently behind on lecture, and Z is the average number of lectures consumed per day
 
 
-Let us tackle the question of: what should my average rate of lecture catch up per day be if I want to be caught up in T days. We compute L_T, set L_T = M_0 + Z * T, and find Z by taking the ceiling of (L_T - M_0)/T. 
+At an average rate of Z moves (lectures) per time step (day), how many days from now will the L-dot and M-dot meet (i.e., when will I be caught up)?
 
-#WE assume this starts on a monday for our counter, what if we start on a thursday!!
+	We seek to find the first value of x for which M_x >= L_x. We can solve this with a simple simulation. 
+
+	[Link to simulation code](/posts_code/lecture-catch-up.R)
 
 
-Suppose I do not adhere to the calculated rate of Z per day. Say, I falter and do zero one day or step up and do a ton one day, can we update my rate to account for this? or estimate a new time I will catch up?
+Now invert that question. What should my average rate of lecture catch up per day be if I want to be caught up in T days?
+
+	We compute $$L_T$$ using the recurrent expression above or more simply: $$L_T = T - (floor(T / 6) + floor(T / 7))$$. Then, set $$L_T = M_0 + Z * T$$, and find Z by taking the ceiling of $$(L_T - M_0)/T$$. 
+
 
 Adith Arun
-November 2022
+Jan 2023
 
 [back](./)
+
+
+
+
+
+

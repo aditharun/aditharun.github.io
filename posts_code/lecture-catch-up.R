@@ -1,7 +1,8 @@
+#set these values
+M_init <- -4 #number of days behind on lecture you currently are 
+Z <- 2  #average number of lectures you plan to consume per day
+##
 
-#feed in these values
-M_init <- -4
-Z <- 2
 
 L_init <- 0
 
@@ -28,4 +29,5 @@ while (tail(M, 1) < tail(L, 1)){
 
 }
 
+print(paste0(x, " calendar days from now you will be caught up"))
 
