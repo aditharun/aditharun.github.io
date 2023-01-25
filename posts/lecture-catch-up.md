@@ -15,9 +15,9 @@ Now, the L-dot has a pre-determined moving pattern. It moves foward by one 5 tim
 
 We can model L-dot's movement as: 
 	
-	$$L_{d}$$ = if (d mod 6 | d mod 7) = 0 then $$L_{d-1}$$ else $$L_{d-1} + 1$$ 
+	$L_{d}$ = if (d mod 6 | d mod 7) = 0 then $L_{d-1}$ else $L_{d-1} + 1$ 
 
-where d refers to the day count; d starts at 0 and, by definition, $$L_0 = 0$$ 
+where d refers to the day count; d starts at 0 and, by definition, $L_{0}$ = 0 
 
 We can model M-dot's movement as: 
 	
@@ -28,7 +28,7 @@ At an average rate of Z moves (lectures) per time step (day), how many days from
 
 	We seek to find the first value of x for which M_x >= L_x. We can solve this with a simple simulation. 
 
-	[Link to simulation code](/posts_code/lecture-catch-up.R)
+[Link to simulation code](/posts_code/lecture-catch-up.R)
 
 
 Now invert that question. What should my average rate of lecture catch up per day be if I want to be caught up in T days?
