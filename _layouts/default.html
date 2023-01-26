@@ -4,6 +4,10 @@ layout: base
 
 <div class="intro-header"></div>
 
+{% if jekyll.environment == 'production' and site.google_analytics %}
+   {% include analytics.html %}
+   {% endif %}
+
 <div role="main" class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   {% if page.before-content %}
     <div class="before-content">

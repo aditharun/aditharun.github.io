@@ -6,6 +6,10 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 
+{% if jekyll.environment == 'production' and site.google_analytics %}
+   {% include analytics.html %}
+   {% endif %}
+
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}

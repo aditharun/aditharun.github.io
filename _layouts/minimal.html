@@ -18,6 +18,10 @@ common-ext-js:
 
   {% include head.html %}
 
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+   {% include analytics.html %}
+   {% endif %}
+
   <body>
 
     <div role="main" class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %} main-content">

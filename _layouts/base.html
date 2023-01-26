@@ -24,6 +24,10 @@ common-js:
 <!-- Beautiful Jekyll 5.0.0 | Copyright Dean Attali 2020 -->
 {% include head.html %}
 
+{% if jekyll.environment == 'production' and site.google_analytics %}
+   {% include analytics.html %}
+   {% endif %}
+
 <body>
 
   {% include gtm_body.html %}
