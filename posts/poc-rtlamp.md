@@ -87,7 +87,7 @@ Thus, a suite of viral finger prick PoC testing products can be created and offe
 [20](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/plasma-hiv-1-rna-cd4-monitoring#:~:text=the%20new%20regimen.-,Repeat%20viral%20load%20measurement%20should%20be%20performed%20at%204%2D%20to,frequently%20if%20indicated%20)  
 [21](https://pubmed.ncbi.nlm.nih.gov/15817962/)     
 [22](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/plasma-hiv-1-rna-cd4-monitoring)     
-[23](https://www.athelas.com/athelas-home  
+[23](https://www.athelas.com/athelas-home)   
 [24](https://ashpublications.org/blood/article/132/Supplement%201/1103/262667/A-Novel-Device-Suitable-for-Home-Monitoring-of)    
 [25](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5639046/)    
 
