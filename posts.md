@@ -3,7 +3,7 @@ layout: page
 title: Posts
 ---
 
-* Point of care detection and monitoring of HIV with RT-LAMP **[writeup](pots/poc-rtlamp.md)**
+* Point of care detection and monitoring of HIV with RT-LAMP **[writeup](posts/poc-rtlamp.md)**
 
 * On the problem of catching up on lectures **[notes](posts/lecture-catch-up.md)**
 
