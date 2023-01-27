@@ -60,7 +60,35 @@ To assess the feasibility of CD4+ T cell counting with the current hardware, the
 
 The LAMP/RT-LAMP system can be easily extended to detect other viral diseases in a PoC setting. A specific LAMP primer must be made for each virus to be detected, but otherwise the entire system remains the same. Of particular note, the shelf stability of LAMP primers under different temperatures, specifically normal kitchen refrigeration and room temperature, are important to consider. Some data suggests that LAMP primers are stable for nearly 50 days and across a wide range of temperatures (25). Investing into designing primers that are more shelf and temperature stable is likely important if multi-viral detection LAMP PoC assays are to be commercialized.  
  
-Thus, a suite of viral finger prick PoC testing products can be created and offered direct-to-consumer. The customer must make a one-time purchase of a hub where the LAMP/RT-LAMP reaction occurs and then can order primers for the diseases of interest.  
+Thus, a suite of viral finger prick PoC testing products can be created and offered direct-to-consumer. The customer must make a one-time purchase of a hub where the LAMP/RT-LAMP reaction occurs and then can order primers for the diseases of interest. 
+
+References
+1: https://www.hiv.gov/hiv-basics/overview/data-and-trends/statistics#:~:text=Fast%20Facts
+2: https://en.wikipedia.org/wiki/Subtypes_of_HIV 
+3: https://oraquick.com/what-is-oraquick
+4: https://www.cdc.gov/hiv/basics/hiv-testing/hiv-self-tests.html
+5: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075356/
+6: https://pubmed.ncbi.nlm.nih.gov/26633768/
+7: https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00530-2/fulltext
+8: https://pubmed.ncbi.nlm.nih.gov/21406978/
+9:https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rtpcr-analysis/general-articles/rt--pcr-the-basics.html
+10: https://www.science.org/doi/10.1126/scitranslmed.abc7075
+11:https://detect.com/files/information_sheets/Detect_Covid-19_Test-Instructions_for_Use_for_Healthcare_Providers.pdf
+12: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4439053/
+13: https://academic.oup.com/ajcp/article/154/Supplement_1/S138/5942327
+14: https://pubmed.ncbi.nlm.nih.gov/29474813/
+15: https://pubs.acs.org/doi/10.1021/ac3037206
+16: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3285652/
+17:https://www.ecdc.europa.eu/en/news-events/benefits-hiv-treatment-undetectable-means-you-do-not-pass-virus
+18: https://www.plannedparenthood.org/learn/stds-hiv-safer-sex/hiv-aids/what-are-symptoms-hivaids
+19: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6892619/
+20: https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/plasma-hiv-1-rna-cd4-monitoring#:~:text=the%20new%20regimen.-,Repeat%20viral%20load%20measurement%20should%20be%20performed%20at%204%2D%20to,frequently%20if%20indicated%20(AIII)
+21: https://pubmed.ncbi.nlm.nih.gov/15817962/ 
+22: https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/plasma-hiv-1-rna-cd4-monitoring 
+23: https://www.athelas.com/athelas-home
+24: https://ashpublications.org/blood/article/132/Supplement%201/1103/262667/A-Novel-Device-Suitable-for-Home-Monitoring-of
+25: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5639046/
+ 
 
 Adith Arun
 
