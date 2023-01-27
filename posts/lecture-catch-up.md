@@ -68,9 +68,6 @@ We compute $L_T$ using the recurrent expression above or more simply: $L_T = T -
 
 
 Adith Arun  
-Jan 2023
-
-[back](./)
 
 
 
