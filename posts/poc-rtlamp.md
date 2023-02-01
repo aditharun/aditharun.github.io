@@ -27,8 +27,8 @@ The primary technology to implement in both of these cases is RT-LAMP (reverse t
 
 HIV RNA in plasma spikes during the acute infection, and stays at a significant non-zero level after (Figure 1, h/t Dr. Sheldon Campbell YNHH adapted from (8)). Other antigen and antibody markers are detectable at later stages and drop off quickly (p24 Antigen) or peak later in post-acute stages (IgM, IgG) making them less ideal markers. Detecting HIV RNA is the gold standard but is accomplished clinically via RT-PCR, a method requiring specific laboratory equipment and a mechanism to cycle temperatures of the reaction container (9). RT-LAMP is an alternative to RT-PCR that does not require special instruments.
 
-![<img src="hivbiomarkerprofiles.png" width="250"/>](/posts_code/hiv-poc/hiv-biomarker-long-profiles.png)
-*Figure 1 h/t Dr. Sheldon Campbell YNHH adapted from Ref. 8, longitudinal profiles of HIV biomarkers*
+![<img src="hivbiomarkerprofiles.png" width="150"/>](/posts_code/hiv-poc/hiv-biomarker-long-profiles.png)  
+*Figure 1 h/t Dr. Sheldon Campbell YNHH adapted from Ref. 8, longitudinal profiles of HIV biomarkers*  
 
 A colorimetric RT-LAMP assay has been used for PoC detection of COVID19 (10). Detect [site](https://detect.com) created a RT-LAMP based commercial test for detecting COVID19 from an anterior nasal swab with 91% sensitivity and 100% specificity. For proper use, the patient must perform a few specific maneuvers to ensure valid results which may make it more difficult for people to use compared to standard antigen tests with simpler procedures (11). The test tube with patient sample is processed by the Detect Hub (the small pod that performs the RT-LAMP assay) in an hour and results are read and tracked by their app. The Detect COVID19 test demonstrates the feasibility of the RT-LAMP as a PoC detection tool.   
 
@@ -48,8 +48,8 @@ Currently, HIV viral load quantitation involves a venipuncture blood draw at eit
 
 To date, however, a RT-LAMP assay capable of estimating viral load with decent accuracy has not been developed. A two-step RT-LAMP assay was developed and tested on four patient samples, and it produced markedly different estimates from consensus RT-PCR (Figure 2 - directly taken from Figure 4B of ref. 15). A finger-prick ready RT-LAMP assay must be engineered to capitalize on the market for monitoring response to therapy for HIV.  
 
-![<img src="hiv-viral-load" width="250"/>](/posts_code/hiv-poc/hiv-viral-load.png)
-*Figure 2, taken directly from Fig 4B of Ref. 15*
+![<img src="hiv-viral-load" width="100"/>](/posts_code/hiv-poc/hiv-viral-load.png)  
+*Figure 2, taken directly from Fig 4B of Ref. 15*  
 
 **Monitoring of CD4+ Count**
 
@@ -65,31 +65,55 @@ Thus, a suite of viral finger prick PoC testing products can be created and offe
 
 **References**  
 
-[1](https://www.hiv.gov/hiv-basics/overview/data-and-trends/statistics#:~:text=Fast%20Facts)    
-[2](https://en.wikipedia.org/wiki/Subtypes_of_HIV)  
-[3](https://oraquick.com/what-is-oraquick)    
-[4](https://www.cdc.gov/hiv/basics/hiv-testing/hiv-self-tests.html)  
-[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075356/)    
-[6](https://pubmed.ncbi.nlm.nih.gov/26633768/)    
-[7](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00530-2/fulltext)  
-[8](https://pubmed.ncbi.nlm.nih.gov/21406978/)    
-[9](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rtpcr-analysis/general-articles/rt--pcr-the-basics.html)    
-[10](https://www.science.org/doi/10.1126/scitranslmed.abc7075)    
-[11](https://detect.com/files/information_sheets/Detect_Covid-19_Test-Instructions_for_Use_for_Healthcare_Providers.pdf)    
-[12](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4439053/)  
-[13](https://academic.oup.com/ajcp/article/154/Supplement_1/S138/5942327)    
-[14](https://pubmed.ncbi.nlm.nih.gov/29474813/)    
-[15](https://pubs.acs.org/doi/10.1021/ac3037206)    
-[16](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3285652/)    
-[17](https://www.ecdc.europa.eu/en/news-events/benefits-hiv-treatment-undetectable-means-you-do-not-pass-virus)    
-[18](https://www.plannedparenthood.org/learn/stds-hiv-safer-sex/hiv-aids/what-are-symptoms-hivaids)    
-[19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6892619/)   
-[20](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/plasma-hiv-1-rna-cd4-monitoring#:~:text=the%20new%20regimen.-,Repeat%20viral%20load%20measurement%20should%20be%20performed%20at%204%2D%20to,frequently%20if%20indicated%20)  
-[21](https://pubmed.ncbi.nlm.nih.gov/15817962/)     
-[22](https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/plasma-hiv-1-rna-cd4-monitoring)     
-[23](https://www.athelas.com/athelas-home)   
-[24](https://ashpublications.org/blood/article/132/Supplement%201/1103/262667/A-Novel-Device-Suitable-for-Home-Monitoring-of)    
-[25](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5639046/)    
+1 <https://www.hiv.gov/hiv-basics/overview/data-and-trends/statistics#:~:text=Fast%20Facts>
+
+2 <https://en.wikipedia.org/wiki/Subtypes_of_HIV>
+
+3 <https://oraquick.com/what-is-oraquick>    
+
+4 <https://www.cdc.gov/hiv/basics/hiv-testing/hiv-self-tests.html> 
+
+5 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7075356/>
+
+6 <https://pubmed.ncbi.nlm.nih.gov/26633768/>    
+
+7 <https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(21)00530-2/fulltext>  
+
+8 <https://pubmed.ncbi.nlm.nih.gov/21406978/>  
+
+9 <https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rtpcr-analysis/general-articles/rt--pcr-the-basics.html>  
+
+10 <https://www.science.org/doi/10.1126/scitranslmed.abc7075>  
+
+11 <https://detect.com/files/information_sheets/Detect_Covid-19_Test-Instructions_for_Use_for_Healthcare_Providers.pdf>  
+
+12 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4439053/>
+
+13 <https://academic.oup.com/ajcp/article/154/Supplement_1/S138/5942327> 
+
+14 <https://pubmed.ncbi.nlm.nih.gov/29474813/>    
+
+15 <https://pubs.acs.org/doi/10.1021/ac3037206>    
+
+16 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3285652/>    
+
+17 <https://www.ecdc.europa.eu/en/news-events/benefits-hiv-treatment-undetectable-means-you-do-not-pass-virus>
+
+18 <https://www.plannedparenthood.org/learn/stds-hiv-safer-sex/hiv-aids/what-are-symptoms-hivaids>    
+
+19 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6892619/>  
+
+20 <https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/plasma-hiv-1-rna-cd4-monitoring>
+
+21 <https://pubmed.ncbi.nlm.nih.gov/15817962/>     
+
+22 <https://clinicalinfo.hiv.gov/en/guidelines/hiv-clinical-guidelines-adult-and-adolescent-arv/plasma-hiv-1-rna-cd4-monitoring>  
+
+23 <https://www.athelas.com/athelas-home>  
+
+24 <https://ashpublications.org/blood/article/132/Supplement%201/1103/262667/A-Novel-Device-Suitable-for-Home-Monitoring-of>   
+
+25 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5639046/>
 
 
 
