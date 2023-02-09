@@ -4,10 +4,13 @@ layout: default
 
 
 ### A social platform for sharing scientific papers with friends and colleagues
+###### A living diary of the scientific content we read, goodreads for science
 
-The basic premise of this tool would be to allow people to share the papers they read online. A living diary of the scientific content they read.
+When choosing what to read, it would be nice to branch out from the medicine and statistics things I normally read. A good starting point would be to browse things my friends have read recently. 
 
-When choosing what to read, it would be nice to see what colleagues and friends have read.
+Now that Bruce and I no longer live together and share magazines, how much easier would it be branch out if I was able to see the exact paper Bruce just read about biomimetically inspired nanogels for cancer immunotherapy. 
+
+Sketching out some details, in case I ever have the inkling to actually sit down and write the code: 
 
 Each account has a homepage where their posts are located. A post consists of two things: a) the paper's title, journal, link, and b) an optional caption spot for the account to write their thoughts, however brief on the paper. Each post has a comments section where discussion may happen, and a like button. Users can search and follow accounts, and their feed is composed of the accounts they follow. An optional feature includes feeds that contain posts similar to the user-followed content. 
 
