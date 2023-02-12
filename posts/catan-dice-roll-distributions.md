@@ -5,7 +5,7 @@ layout: post
 <!--Written Jan 2022. -->
 
 
-### Investigating the convergence in distribution of the sum of two dice rolls
+#### Investigating the convergence in distribution of the sum of two dice rolls
 
 _"If the four didn't roll as much as it did, I would have won"._  
 _"The eight did not roll at all. If it rolled even a few times I would have won."_    
@@ -28,12 +28,7 @@ We can assess this convergence. First, we simulate an _n_-roll game and note the
 
 The KS statistic decreases as the number of dice rolls increases, an expected result. Further, we observe that the variance (approximated by the height of the boxes in the boxplot) increases as the number of rolls decreases - another expected result. Between 100 and 200 roll games, there appears to be a plateau in convergence to the theoretical probabilities. For our purposes, 50 and 75 dice rolls produce distributions that are indeed quite variable and different from the theoretical levels.  
 
-So, what does this mean for Catan-like games? I would argue that less emphasis be placed on the theoretical probabilities. Take advantage of the increased variance in these games and play more freely. Place settlements on 4s, 5s, 9s, and 10s with a bit more confidence. 
-
-
-
-Adith Arun
-
+So, what does this mean for Catan-like games? I would argue that less emphasis be placed on the theoretical probabilities. Take advantage of the increased variance in these games and play more freely. Place settlements on 4s, 5s, 9s, and 10s with more confidence. 
 
 
 
