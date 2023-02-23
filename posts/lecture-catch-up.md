@@ -113,9 +113,9 @@ Again, we seek to find the first value of x for which $M_x \geq L_x$. We can mak
 
 Likewise, we can now invert this question. How many lectures should I watch each day if I want to be caught up in T days?
 
-We compute $L_T$ using the recurrent expression above or more simply: $L_T = T*p_ave - ( floor(\frac{T}{6}) + floor(\frac{T}{7}) )$. Then, set $L_T = M_0 + Z * T$, and find Z by taking the ceiling of $\frac{(L_T - M_0)}{T}$.  
+We compute $L_T$ using the recurrent expression above or more simply: $L_T = T*p_{ave} - ( floor(\frac{T}{6}) + floor(\frac{T}{7}) )$. Then, set $L_T = M_0 + Z * T$, and find Z by taking the ceiling of $\frac{(L_T - M_0)}{T}$.  
 
-Note that $p_ave$ is the expected value of $p$. For a uniform (flat) prior, as we assume here, $p_ave$ is simply the average of the possible values for $p$ specified above. In the sample case of medical school, $p_ave$ is 3.  
+Note that $p_{ave}$ is the expected value of $p$. For a uniform (flat) prior, as we assume here, $p_ave$ is simply the average of the possible values for $p$ specified above. In the sample case of medical school, $p_{ave}$ is 3.  
 
 
 
