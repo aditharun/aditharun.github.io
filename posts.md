@@ -5,6 +5,10 @@ title: Posts
 
 * On the problem of catching up on lectures **[notes](posts/lecture-catch-up.md)**
 
+* Testing for Cranial Nerve 1 on head-to-toe physical exams **[thoughts](posts/olfactory-cn-pe-test.md)**
+
+* Structuring an incentive for airline desk attendants **[ideas](posts/desk-attendants-incentives.md)**
+
 * Feasability and utility of pharmacogenetics-informed prescribing **[some thoughts](posts/pharmacogenetics-drug-reactions.md)**
 
 * Point of care detection and monitoring of HIV with RT-LAMP **[writeup](posts/poc-rtlamp.md)**
