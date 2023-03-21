@@ -6,7 +6,7 @@ layout: default
 
 I flew JetBlue from JFK to PUJ (Punta Cana, DR) with a layover in San Juan, Puerto Rico both ways. The flights were moved 11 times between both trips. We were informed by email each time with the new departure time. 
 
-The main inefficiency I see is in the pre-TSA help desk experience. Staff at all three airports moved with little urgency despite long lines and ansy travellers with flight plans that were constantly being changed. The pace at which the agents moved in this setting was slow. I do not blame them - it is impossible to be alert and efficient all the time. But, maybe there are incentives we can insititue to motivate a better customer experience.
+The main inefficiency I see is in the pre-TSA help desk experience. Staff at all three airports moved with little urgency despite long lines and antsy travellers with flight plans that were constantly being changed. The pace at which the agents moved in this setting was slow. I do not blame them - it is impossible to be alert and efficient all the time. But, maybe there are incentives we can institute to motivate a better customer experience.
 
 I have no idea how the compensation for airline employees are structured, but these are my thoughts. 
 
