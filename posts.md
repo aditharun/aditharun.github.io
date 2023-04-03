@@ -5,13 +5,13 @@ title: Posts
 
 * On the problem of catching up on lectures **[notes](posts/lecture-catch-up.md)**
 
-* Testing for Cranial Nerve 1 on head-to-toe physical exams **[thoughts](posts/olfactory-cn-pe-test.md)**
-
 * Structuring an incentive for airline desk attendants **[ideas](posts/desk-attendants-incentives.md)**
 
 * Feasability and utility of pharmacogenetics-informed prescribing **[some thoughts](posts/pharmacogenetics-drug-reactions.md)**
 
 * Point of care detection and monitoring of HIV with RT-LAMP **[writeup](posts/poc-rtlamp.md)**
+
+* Estimating the time spent waiting for and in elevators **[notes](posts/time-spent-in-elevators.md)**
 
 * To what extent should you accept the theoretical distribution of dice rolls when making decisions in finite roll board games like Catan? **[thoughts and simulations](posts/catan-dice-roll-distributions.md)**
 
@@ -21,6 +21,8 @@ title: Posts
     * Source code and estimation procedure found [here](https://github.com/aditharun/income_distr)
 
 * A social ReadCube for passively broadening the science you read **[thoughts](posts/paper-sharing-platform.md)**
+
+* Testing for Cranial Nerve 1 on head-to-toe physical exams **[thoughts](posts/olfactory-cn-pe-test.md)**
 
 * ML models for Chest CT based Autism Spectrum Disorder screening **[thoughts](posts/asd-pred-by-chestCT.md)**
 
