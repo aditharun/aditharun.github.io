@@ -5,6 +5,8 @@ title: Posts
 
 * On the problem of catching up on lectures **[notes](posts/lecture-catch-up.md)**
 
+* Thinking about humming, nitric oxide, and pulmonary hypertension **[thoughts](posts/humming-physiological-benefits.md)**
+
 * Structuring an incentive for airline desk attendants **[ideas](posts/desk-attendants-incentives.md)**
 
 * Feasability and utility of pharmacogenetics-informed prescribing **[some thoughts](posts/pharmacogenetics-drug-reactions.md)**
