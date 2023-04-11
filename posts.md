@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* A platform for conducting N-of-1 clinical trials, a case study on how to find statin intolerant patients that are actually statin tolerant **[writeup](posts/n-of-1-trials.md)**
+
 * On the problem of catching up on lectures **[notes](posts/lecture-catch-up.md)**
 
 * Thinking about humming, nitric oxide, and pulmonary hypertension **[thoughts](posts/humming-physiological-benefits.md)**
