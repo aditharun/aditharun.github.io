@@ -19,7 +19,7 @@ Let us derive an expression for the mean, $\bar{x}$. Note that, by definition, $
 
 Let us derive an iterative expression for the sample variance, $V(x_n) = \frac{\sum_{i=1}^{n} (x_i - \bar{x_n})^2 }{n-1}$. As is, this cannot be computed iteratively because we have $x_i$ tied to $x_n$ which means reupdating the difference for each previous value based on the new mean. Let us expand this square and distribute the sum operator and see where that takes us. 
 
-![<img src="variacne-decomp.jpg" width="70"/>](/posts_code/derive-stat-measures/variance-decomp.jpg)  
+![<img src="variance-decomp.jpg" width="70"/>](/posts_code/derive-stat-measures/variance-decomp.jpg)  
 *Decomposition of sample variance*
 
 We need to track three things to compute sample variance without storing the stream of data: a) $\Omega$, Sum of Squares of Individual data points, b) the mean (which we already have), c) $n$, which we already have from computing the mean. The $\Omega_{n_1} = \Omega_{n} + x_{n+1}^2$ with base case $\Omega_1 = x_1^2$.
@@ -28,7 +28,7 @@ Can we compute the median without storing the stream of numbers? The median of a
 
 [The $P^2$ algorithm for dynamic calculcation of quantiles and histograms without sorting observations](https://www.cs.wustl.edu/~jain/papers/ftp/psqr.pdf) is a cool paper from over 30 years ago that computes running medians with mean-squared error that quickly asymptotes to zero as the number of observations increases. We can see this relationship when the data comes from an exponential and normal distribution, respectively. 
 
-![<img src="MSE-runnin-median.jpg" width="150"/>](/posts_code/derive-stat-measures/fig3-jain.jpg)  
+![<img src="MSE-running-median.jpg" width="150"/>](/posts_code/derive-stat-measures/fig3-jain.jpg)  
 
 
 Does this mean-squared error drop off extend for non-standard distributions like the Cauchy? This is irrelevant in my opinion. With large enough sample size, as in the case we consider here, everything basically resembles a Gaussian or a mixture of Gaussians. The real question is whether this algorithm works for the mixture case. 
