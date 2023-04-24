@@ -10,7 +10,9 @@ What is the CO2 level like indoors? At the School of Forestry at Yale, I noticed
 
 Cognitive ability across the board decreases as CO2 level increases (see figure 2 from [Allen et. al 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4892924/) below). There is marked decreases in strategy, information usage, basic activity (overall decision making ability) and focused activity (ability to pay attention to situations at hand) at higher CO2 concentrations. Participants were exposed to these levels for a full work day, 9a-3p with a 45 minute lunch break and their cognitive function was assessed with a validated 1.5 hour long computer test. [Allen et. al](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4892924/) report that cognitive function scores were 15% lower when exposed to ~945 ppm of CO2 relative to baseline ~586ppm. Scores were 50% lower when exposed to ~1400ppm relative to baseline. 
 
-![Cognitive Ability as a function of CO2](/posts_code/fig-2-co2-study.jpg)
+
+![<img src="fig2-co2-study.jpeg" width="80"/>](/posts_code/fig-2-co2-study.jpeg)  
+*Figure 2 from Allen. et al 2016 showing cognitive function scores as a function of carbon dioxide concentration tracked for each participant*   
 
 Carbon dioxide levels in indoor spaces are also a proxy for ventilation and airflow in that space. Exhalations put out carbon dioxide and when the air in a room is not ventilated at a proper rate, CO2 can build up. So, the greater the CO2 level in a room, the more you are breathing in air that someone else has already exhaled. In such conditions, the air is less likely to be 'clean' and more likely to contain respiratory pathogens which increases viral infectivity too along with decreasing cognition. 
 
