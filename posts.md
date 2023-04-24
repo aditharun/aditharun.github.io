@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* CO2 levels in indoor spaces and its inverse relationship with cognitive ability **[thoughts](posts/CO2-monitoring.md)**
+
 * Streaming computation of statistical measures **[comments](posts/iterative-stat-measures.md)**
 
 * A platform for conducting N-of-1 clinical trials, a case study on how to find statin intolerant patients that are actually statin tolerant **[writeup](posts/n-of-1-trials.md)**
