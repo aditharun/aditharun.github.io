@@ -94,6 +94,8 @@ Tests with 300 questions are the only fair length. None of the other questions l
 		data %>% group_by(n) %>% summarize(lb = quantile(percent, 0.05, na.rm=T), ub = quantile(percent, 0.95, na.rm=T), check_below_60=adjust_below_60(percent)) %>% mutate(p = p*100) %>% mutate(check = ifelse((lb >= p-5) & (ub <= p+5), "yes", "no")) %>% mutate(check = ifelse(p < 60, check_below_60, check)) %>% select(n, p, check)
 	}
 
+![<img src="update-fail-criteria.png" width="150"/>](/posts_code/designing-fair-tests/update-fail-criteria.png)
+
 Now, for the squares that are still navy, let us understand the distribution of outcomes in this boxes. What is the 5th and 95th percentile of the data in each navy box? And how close are those observed values to the 5% window we are aiming for? We swap out `eval_outcome_distr` for `investigate_distr`, run the code to get the `outcomes` dataframe. 
 
 	investigate_distr <- function(p){
