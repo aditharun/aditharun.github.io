@@ -4,9 +4,9 @@ layout: default
 
 #### Designing Fair Multiple Choice Tests
 
-A friend of mine scored a 92% on a pretty hard 120 question multiple choice exam that we took and jokingly remarked that he got lucky. Did he though?
+A friend of mine scored a 95% on a pretty hard 120 question multiple choice exam that we took and jokingly remarked that he got lucky. Did he though?
 
-Given that he actually knows 90% of the material, what should his test score distribution look like? Assume there are $n$ questions on the test and he has a probability $p$ of being correct on each question. We simulate this by drawing $n$ times from a binomial with success probability $p$. Let $Y \sim binomial(n, p)$ with $E(Y) = np$ and $V(Y) = np(1-p)$. The normal distribution with mean $np$ and variance $np(1-p)$ is an approximation for the binomial and converges as $n$ increases. But, for small $n$, it does not capture the behavior. 
+Given that he actually knows 95% of the material, what should his test score distribution look like? Assume there are $n$ questions on the test and he has a probability $p$ of being correct on each question. We simulate this by drawing $n$ times from a binomial with success probability $p$. Let $Y \sim binomial(n, p)$ with $E(Y) = np$ and $V(Y) = np(1-p)$. The normal distribution with mean $np$ and variance $np(1-p)$ is an approximation for the binomial and converges as $n$ increases. But, for small $n$, it does not capture the behavior. 
 
 	library(tidyverse)
 
