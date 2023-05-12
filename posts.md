@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* Exploring the minimum Hamming weight problem **[some thoughts](posts/min-sum-pow-two.md)**
+
 * Designing fair multiple choice tests **[writeup](posts/designing-fair-tests.md)**
 
 * CO2 levels in indoor spaces and its inverse relationship with cognitive ability **[thoughts](posts/CO2-monitoring.md)**
