@@ -47,7 +47,7 @@ There is periodicity with a reset at each power of two. Observe the behavior of 
 
 The interval between $2^3$ to $2^4$ is a repeat of the previous interval $2^2$ to $2^3$ (2, 2, 3) plus a string of equal length three with the same structure incremented by 1 (3, 3, 4). This continues in that $(2^4, 2^5)$ has first half equal to that of the values on $(2^3, 2^4)$ and second half equal to that of the first half plus 1. Namely, take an integer $s = 2^k$. Let $v_i$ represent the value of the $i^{th}$ minimum Hamming weight in the open interval $(2^{k-1}, 2^k)$. Let $q_i$ represent the value of the $i^{th}$ minimum Hamming weight in the open interval $(2^{k}, 2^{k+1})$. We know that $v_i = q_i + 1$. 
 
-If asked to find $M_{HW}(x)$, we need $M_{HW}(x - 2^{\lfloor log_{2}(x) \rfloor})$. 
+If asked to find $M_{HW}(x)$, we need $M_{HW}(2^{\lfloor log_{2}(x) \rfloor + 1} - x)$. Note that $M_{HW}(2^{\lfloor log_{2}(x) \rfloor + 1} - x)$ is the formal representation of the symmetrical windows discussed in the previous paragraph. 
 
 Of course, we can do this operation above recursively until we end up with an integer $y$ where we know $M_{HW}(y)$ and then exit the recursion by adding 1 equal to the number of loops we created. This is effectively the same complexity and solution as the pseudocode we wrote originally. 
 
