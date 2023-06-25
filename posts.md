@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* Understanding the risk profile of sparkling water **[notes](posts/sparkling-water.md)**
+
 * Exploring the minimum Hamming weight problem **[some thoughts](posts/min-sum-pow-two.md)**
 
 * Designing fair multiple choice tests **[writeup](posts/designing-fair-tests.md)**
