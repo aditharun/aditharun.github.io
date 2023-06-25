@@ -18,6 +18,6 @@ Further comments from Seymour taken from the above NYT piece:
 
 Carbonated water has, well, carbon dioxide gas. Depending on the person, it can contribute to bloating and gas in the form of flatulence and burps. If these things happen to you and it bothers you, consider decreasing your sparkling water intake. Otherwise, it's fine.
 
-Tap water is free. Sparkling water is not. At Costco, a 24 count box of 12 fl oz La Croix costs \$14 and 16.9 fl oz Perrier costs \$25 (as of June 2023). Assume a steady 2 standard 12 fl oz drinks consumed per day. How much does this cost per year? **If you drink Perrier, it means spending \$539 per year. If you drink La Croix, it means spending \$419 per year.**
+Tap water is free. Sparkling water is not. At Costco, a 24 count box of 12 fl oz La Croix costs ~14 USD and 16.9 fl oz Perrier costs ~25 USD (as of June 2023). Assume a steady 2 standard 12 fl oz drinks consumed per day. How much does this cost per year? **If you drink Perrier, it means spending 539 dollars per year. If you drink La Croix, it means spending 419 per year.**
 
 **In short, drink Perrier if possible. Otherwise, La Croix. One a day is perfectly fine. Two is ok but anything more should be paired with food and maybe a fluoride toothpaste at night like Sensodyne.**
