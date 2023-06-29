@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* An app for exploring publication trends of scientists on google scholar **[app](posts/scholar-trends.html)**
+
 * Understanding the risk profile of sparkling water **[notes](posts/sparkling-water.md)**
 
 * Exploring the minimum Hamming weight problem **[some thoughts](posts/min-sum-pow-two.md)**
