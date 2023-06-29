@@ -3,7 +3,7 @@ layout: page
 title: Posts
 ---
 
-* An app for exploring publication trends of scientists on google scholar **[app](shiny/scholar-trends.html)**
+* Exploring publication trends of scientists using google scholar data **[demo](posts/scholar-trends.md)**
 
 * Understanding the risk profile of sparkling water **[notes](posts/sparkling-water.md)**
 
