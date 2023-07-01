@@ -21,9 +21,9 @@ In all, [just start](https://twitter.com/bpoppenheimer/status/164700006261708800
 
 
 
-[^1]: Know that people will talk about you for two minutes then move on. Nobody thinks about you as much as you think about yourself because, well, everyone is thinking about themselves. 
+<small> [^1]: Know that people will talk about you for two minutes then move on. Nobody thinks about you as much as you think about yourself because, well, everyone is thinking about themselves.</small> 
 
-[^2]: Create a process and routine you love. Very briefly look at the outcome to reflect on how to get better, then wipe it away and go back to the next iteration of the process.
+<small>[^2]: Create a process and routine you love. Very briefly look at the outcome to reflect on how to get better, then wipe it away and go back to the next iteration of the process. </small>
 
-[^3]: Granted, it may come to a tiny fraction of people, but that is not you. 
+<small>[^3]: Granted, it may come to a tiny fraction of people, but that is not you. </small>
 
