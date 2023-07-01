@@ -22,6 +22,8 @@ In all, [just start](https://twitter.com/bpoppenheimer/status/164700006261708800
 <br>
 <br>
 <br>
+<br>
+<br>
 
 [^1]: Know that people will talk about you for two minutes then move on. Nobody thinks about you as much as you think about yourself because, well, everyone is thinking about themselves.
 
