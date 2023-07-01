@@ -30,8 +30,6 @@ In all, [just start](https://twitter.com/bpoppenheimer/status/164700006261708800
 <br>
 <br>
 <br>
-<br>
-<br>
 
 
 
