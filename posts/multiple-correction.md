@@ -24,6 +24,7 @@ The Bonferroni correction is preffered when you want to be as conservative as po
 
 So, we can write some code that takes in a response column and a variable column, and computes an unpaired two-sample Wilcoxon or t-test test statistic and p-value based on what the user wants.
 
+```
   library(tidyverse)
 
   test_hypothesis <- function(df, var, response, type = "wilcox"){
@@ -43,11 +44,11 @@ So, we can write some code that takes in a response column and a variable column
 
 
   }
-
+```
 
 Now, assume you have an excel file with the data. There are multiple sheets, each with one response variable and many columns with variables to test. We want to read all that data in, and then test those hypotheses.
 
-
+```
     library(tidyverse)
     library(readxl)
 
@@ -98,6 +99,6 @@ Now, assume you have an excel file with the data. There are multiple sheets, eac
     data <- get_excel_data(filepath, n)
     results <- lapply(data, function(x) wrap_test(x, response_name, test_type)) %>% do.call(rbind, .) %>% as_tibble()
     adjusted <- mult_test(df = results, alpha = single_test_alpha, fdr = FDR, correction_type = correction_method)
-
+```
 
 Run the following code in R (make sure you have installed readxl and tidyverse packages before) and it will read in an excel file with many sheets, compute p-values, and correct for multiple tests. It spits out a dataframe with the variable names, sheet it was found on, p-value and test statistic value for each "significantly" different variable.
