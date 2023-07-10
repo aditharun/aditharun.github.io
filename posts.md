@@ -33,6 +33,8 @@ title: Posts
 
 * To what extent should you accept the theoretical distribution of dice rolls when making decisions in finite roll board games like Catan? **[thoughts and simulations](posts/catan-dice-roll-distributions.md)**
 
+* Testing for "statistically significant" differences between groups: code and some theory **[notes and code](posts/multiple-correction.md)**
+
 * Karaoke-style translation of lyrics on music streaming apps **[thoughts](posts/synced-translation-of-music.md)**
 
 * If your job allows you to work remote, where should you move to maximize spending power? **[site](shiny/income_ranker.html)** 
