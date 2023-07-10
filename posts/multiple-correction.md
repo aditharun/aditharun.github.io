@@ -48,56 +48,56 @@ So, we can write some code that takes in a response column and a variable column
 Now, assume you have an excel file with the data. There are multiple sheets, each with one response variable and many columns with variables to test. We want to read all that data in, and then test those hypotheses.
 
 
-  library(tidyverse)
-  library(readxl)
+    library(tidyverse)
+    library(readxl)
 
-  #read all excel data in
-  #filepath is the path to file
-  #n.sheets is the number of sheet in the excel file
-  get_excel_data <- function(filepath, n.sheets){
+    #read all excel data in
+    #filepath is the path to file
+    #n.sheets is the number of sheet in the excel file
+    get_excel_data <- function(filepath, n.sheets){
 
-    lapply(1:n.sheets, function(x) read_excel(path = filepath, sheet = x) %>% mutate(sheet = x))
+      lapply(1:n.sheets, function(x) read_excel(path = filepath, sheet = x) %>% mutate(sheet = x))
 
-  }
-
-
-  #wrapper function for testing all the hypotheses for a given sheet's worth of data
-  #response is the name of the response variable as a character
-  #type is the type of test to run - either "t" or "wilcox"
-  wrap_test <- function(df, response, type = "wilcox"){
-
-    vars <- setdiff(colnames(df), c(response, "sheet"))
-
-    lapply(vars, function(x) test_hypothesis(df, x, response, type)) %>% do.call(rbind, .) %>% as_tibble() %>% mutate(sheet = unique(df$sheet))
-
-  }
-
-  #multiple hypothesis testing correction
-  #alpha is single test alpha
-  #correction is either bonferroni or benjamini
-  #fdr is the false discovery rate which only needs to be set if correection_type is benjamini
-  mult_test <- function(df, alpha, fdr = 0.05, correction_type = "bonferroni"){
-
-    n <- nrow(df)
-
-    if (correction_type == "bonferroni"){
-      df %>% mutate(thresh = alpha / n) %>% filter(p_value < thresh)
-    } else{
-      df %>% arrange(p_value) %>% mutate(rank = 1:n()) %>% mutate(bh_crit = (rank/n)*fdr) %>% mutate(diff = bh_crit - p_value) %>% filter(diff > 0) %>% select(-diff)
     }
 
-  }
 
-  filepath <- "path/to/excel/file"
-  n <- 12 #or whatever the total number of sheets is
-  response_name <- "name of response column, make it standard across sheets"
-  test_type <- "wilcox" #or t if you want to do t-test
-  single_test_alpha <- 0.01 #or whatever the single test threshold you want is
-  FDR <- 0.05 #false discovery rate, only needed if BH correction used
-  correction_method <- "bonferroni"
-  data <- get_excel_data(filepath, n)
-  results <- lapply(data, function(x) wrap_test(x, response_name, test_type)) %>% do.call(rbind, .) %>% as_tibble()
-  adjusted <- mult_test(df = results, alpha = single_test_alpha, fdr = FDR, correction_type = correction_method)
+    #wrapper function for testing all the hypotheses for a given sheet's worth of data
+    #response is the name of the response variable as a character
+    #type is the type of test to run - either "t" or "wilcox"
+    wrap_test <- function(df, response, type = "wilcox"){
+
+      vars <- setdiff(colnames(df), c(response, "sheet"))
+
+      lapply(vars, function(x) test_hypothesis(df, x, response, type)) %>% do.call(rbind, .) %>% as_tibble() %>% mutate(sheet = unique(df$sheet))
+
+    }
+
+    #multiple hypothesis testing correction
+    #alpha is single test alpha
+    #correction is either bonferroni or benjamini
+    #fdr is the false discovery rate which only needs to be set if correection_type is benjamini
+    mult_test <- function(df, alpha, fdr = 0.05, correction_type = "bonferroni"){
+
+      n <- nrow(df)
+
+      if (correction_type == "bonferroni"){
+        df %>% mutate(thresh = alpha / n) %>% filter(p_value < thresh)
+      } else{
+        df %>% arrange(p_value) %>% mutate(rank = 1:n()) %>% mutate(bh_crit = (rank/n)*fdr) %>% mutate(diff = bh_crit - p_value) %>% filter(diff > 0) %>% select(-diff)
+      }
+
+    }
+
+    filepath <- "path/to/excel/file"
+    n <- 12 #or whatever the total number of sheets is
+    response_name <- "name of response column, make it standard across sheets"
+    test_type <- "wilcox" #or t if you want to do t-test
+    single_test_alpha <- 0.01 #or whatever the single test threshold you want is
+    FDR <- 0.05 #false discovery rate, only needed if BH correction used
+    correction_method <- "bonferroni"
+    data <- get_excel_data(filepath, n)
+    results <- lapply(data, function(x) wrap_test(x, response_name, test_type)) %>% do.call(rbind, .) %>% as_tibble()
+    adjusted <- mult_test(df = results, alpha = single_test_alpha, fdr = FDR, correction_type = correction_method)
 
 
-Run the following code in R (make sure you have installed readxl and tidyverse packages before) and it will read in an excel file with many sheets, compute p-values, and correct for multiple tests. It spits out a dataframe with the variable names, sheet it was found on, p-value and test statistic value for each "significantly" different variable. 
+Run the following code in R (make sure you have installed readxl and tidyverse packages before) and it will read in an excel file with many sheets, compute p-values, and correct for multiple tests. It spits out a dataframe with the variable names, sheet it was found on, p-value and test statistic value for each "significantly" different variable.
