@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* Why does a bench press bar stay balanced with uneven weights? **[some math](posts/balancing-bars.md)**
+
 * The semiconductor industry and its supply chain **[writeup](posts/chips.md)**
 
 * Exploring publication trends of scientists using Google Scholar data **[app demo](posts/scholar-trends.md)**
