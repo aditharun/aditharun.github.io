@@ -19,7 +19,7 @@ Ok, so let $x$ be the COM of this two object system. It must be between $y$ and 
 Remember, the bar will not tip so long as $x$ lies on the closed interval $[y, L-y]$.
 
 A traditional bench press bar is 85 inches long with the following structure:
-![<img src="bar-diagram.jpg" width="20"/>](/posts_code/tipping-bar/bar-diagram.jpg)
+![<img src="bar-diagram.png" width="20"/>](/posts_code/tipping-bar/bar-diagram.png)
 
 The position of the holds is at 15.3 inches so $y$ is 15.3 inches, $L$ is 85 inches, and the weight of the bar is 45 pounds. Let us use metric definitions. 45 pounds is 20.4 kg, 15.3 inches is 0.388 meters, 85 inches is 2.159 meters.
 
