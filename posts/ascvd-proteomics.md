@@ -4,7 +4,7 @@ layout: default
 
 #### Proteomics for ASCVD Risk Assessment
 
-(Helgason et. al, 2023)[https://jamanetwork.com/journals/jama/fullarticle/2808522] developed a proteomics-based approach for predicting risk of atherosclerotic cardiovascular disease (ASCVD). Let's take a deeper look at this paper. 
+[Helgason et. al, 2023](https://jamanetwork.com/journals/jama/fullarticle/2808522) developed a proteomics-based approach for predicting risk of atherosclerotic cardiovascular disease (ASCVD). Let's take a deeper look at this paper. 
 
 There were two cohorts to which they built and deployed their models. In cohort 1, they looked at 13,540 Icelandic individuals with no history of major ASCVD events at recruitment and the end-point considered was the first major ASCVD event (myocardial infarcation, ischemic hemmorraghic stroke, coronary heart disease-related death). A plasma sample was collected under non-fasting conditions for proteomics and other assays (e.g., SNP array/NGS for polygenic risk scores). Plasma sampling was done from 2000-2006 and follow-up was continued till 2018. In cohort 2, data was collected from 6,791 participants with stable ASCVD receiving statin therapy and the end-point was a secondary ASCVD event. Here, participants fasted for at least 9 hours before plasma collection. 
 
