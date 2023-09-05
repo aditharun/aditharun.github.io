@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* Proteomics for atherosclerotic cardiovascular disease risk assessment **[thoughts](posts/ascvd-proteomics.md)**
+
 * Why does a bench press bar stay balanced with uneven weights? **[some math](posts/balancing-bars.md)**
 
 * The semiconductor industry and its supply chain **[writeup](posts/chips.md)**
