@@ -9,6 +9,8 @@ title: Posts
 
 * The semiconductor industry and its supply chain **[writeup](posts/chips.md)**
 
+* A custom Barbie theme for R plots **[mini-post](posts/barbie-figures.md)**
+
 * Exploring publication trends of scientists using Google Scholar data **[app demo](posts/scholar-trends.md)**
 
 * Understanding the risk profile of sparkling water **[notes](posts/sparkling-water.md)**
