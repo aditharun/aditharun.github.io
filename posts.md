@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* A cornucopia of processed corn **[writing piece](posts/processed-corn.md)**
+
 * Proteomics for atherosclerotic cardiovascular disease risk assessment **[thoughts](posts/ascvd-proteomics.md)**
 
 * Why does a bench press bar stay balanced with uneven weights? **[some math](posts/balancing-bars.md)**
