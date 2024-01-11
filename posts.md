@@ -3,6 +3,10 @@ layout: page
 title: Posts
 ---
 
+
+
+* How much DNA do you share with your cousins? **[quick post](posts/relatedness-amongst-cousins.md)**
+
 * A cornucopia of processed corn **[writing piece](posts/processed-corn.md)**
 
 * Proteomics for atherosclerotic cardiovascular disease risk assessment **[thoughts](posts/ascvd-proteomics.md)**
