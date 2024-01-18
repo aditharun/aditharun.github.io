@@ -3,7 +3,7 @@ layout: page
 title: Posts
 ---
 
-
+* A 30,000 foot view of multiple sclerosis **[writeup](posts/MS.md)**
 
 * How much DNA do you share with your cousins? **[quick post](posts/relatedness-amongst-cousins.md)**
 

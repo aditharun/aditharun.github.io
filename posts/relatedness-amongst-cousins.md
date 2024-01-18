@@ -12,4 +12,4 @@ My mother and her siblings share 50% of their DNA. My mother's siblings children
 
 Now, let us consider second cousins. We know that your father and his first cousin share 12.5% of their genetic material. Your father's first cousin's (your uncle's) children share 6.25% (0.125 * 0.5) with your father. **This means you and your second cousins share a mere 3.13% (1/32) of genetic material.** 
 
-We can start to see a pattern emerge here. Let $i$ represent the degree of cousin, with siblings being $i = 0$. Then, the amount of genetic material two people of degree $i$ share is $(1/2)^(2i + 1)$.  
+We can start to see a pattern emerge here. Let $i$ represent the degree of cousin, with siblings being $i = 0$. Then, the amount of genetic material two people of degree $i$ share is $(1/2)^{2i + 1}$.  
