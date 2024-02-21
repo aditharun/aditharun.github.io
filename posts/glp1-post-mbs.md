@@ -4,7 +4,7 @@ layout: default
 
 #### Use of Anti-Obesity Medications in Post-Operative Metabolic and Bariatric Surgery Patients
 
-Here are the [slides](posts_code/MIS-AA-2-21-24.pptx).
+Here is the [slide deck](posts_code/MIS-AA-2-21-24.pdf).
 
 About 1 in 4 patients experience insufficient weight loss or weight recurrence after bariatric surgery. Roughly 240,000 bariatric surgeries are done per year. This translates to about 60,000 patients in the US each year who are weight recurrent post-MBS, a sizeable population. 
 
