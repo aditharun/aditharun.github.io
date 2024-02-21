@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* Use of GLP-1 drugs in post-operative bariatric surgery patients **[slide deck](posts/glp1-post-mbs.md)**
+
 * A 30,000 foot view of multiple sclerosis **[writeup](posts/MS.md)**
 
 * How much DNA do you share with your cousins? **[quick post](posts/relatedness-amongst-cousins.md)**
