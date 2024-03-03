@@ -51,6 +51,8 @@ title: Posts
 
 * A way to summarize across columns while preserving total row-wise probabilities **[quick note](posts/column-wise-means.md)**
 
+* Tracking hair density over time **[demo and short description](posts/tracking-hair.md)**
+
 * Karaoke-style translation of lyrics on music streaming apps **[thoughts](posts/synced-translation-of-music.md)**
 
 * If your job allows you to work remote, where should you move to maximize spending power? **[site](shiny/income_ranker.html)** 
