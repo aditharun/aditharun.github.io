@@ -12,7 +12,7 @@ It is easy to want to be, but hard to do. That's because the overwhlemingly most
 
 > People make the best things when they love the process, when they willingly shoulder the inherent uncertainty and pain that comes with it. It’s almost like a form of prayer: you offer up what you can even though the reward is uncertain. You do it out of love. ([@noampomsky](https://ava.substack.com/p/effort))
 
-In all, [just start](https://twitter.com/bpoppenheimer/status/1647000062617088000). You have to go [earn it]((https://blakeir.com/60e3b62d0f274edf8a9cf39b0cc2f26d)), it is not going to come to you[^3]. Fortunately, [excellence is mundane](https://academics.hamilton.edu/documents/themundanityofexcellence.pdf). It is doing the little things, learned or stumbled upon, consistently and correctly. These small things compound over time [like a snowball building mass as its rolled down a really long hill](https://www.goodreads.com/en/book/show/2054761).  
+In all, [just start](https://twitter.com/bpoppenheimer/status/1647000062617088000). You have to go [earn it]((https://blakeir.com/60e3b62d0f274edf8a9cf39b0cc2f26d)), it is not going to come to you. Fortunately, [excellence is mundane](https://academics.hamilton.edu/documents/themundanityofexcellence.pdf). It is doing the little things, learned or stumbled upon, consistently and correctly. These small things compound over time [like a snowball building mass as its rolled down a really long hill](https://www.goodreads.com/en/book/show/2054761).  
 
 
 
@@ -39,11 +39,9 @@ In all, [just start](https://twitter.com/bpoppenheimer/status/164700006261708800
 
 
 
-[^1]: Know that people will talk about you for two minutes, at most, then move on. We suffer more in imagination than in reality (h/t [Seneca](https://www.amazon.com/Letters-Stoic-Epistulae-Lucilium-Classics-ebook/dp/B002RI99KK/)). In fact, nobody thinks about you as much as you think about yourself because, well, everyone is thinking about themselves. 
+[^1]: We suffer more in imagination than in reality (h/t [Seneca](https://www.amazon.com/Letters-Stoic-Epistulae-Lucilium-Classics-ebook/dp/B002RI99KK/)). In fact, nobody thinks about you as much as you think about yourself because, well, everyone is thinking about themselves. 
 
-[^2]: Create a process and routine you love. The outcome is not the point, ever. Very briefly look at the outcome to reflect on how to get better, then wipe it away and go back to the next iteration of the process. Do things because you feel compelled to [make something happen]((https://blog.samaltman.com/how-to-be-successful)) and because you love it. Act always with good intentions and let the chips fall where they may. 
-
-[^3]: Granted, it may come quite easily to a tiny fraction of people. But that is not you.
+[^2]: Create a process and routine you love. The outcome is not the point, ever. Very briefly look at the outcome to reflect on how to get better, then wipe it away and go back to the next iteration of the process. 
 
 
 [//]: # (Act from a place of love and positivity in all that you do. With good intentions. Let what happens, happens. And do not pay much attention to the consensus opinion. Soliciting too much advice is a common problem - it often washes out any useful information and makes you act unlike yourself. Consider the opinions of those who you respect and understand you.)
