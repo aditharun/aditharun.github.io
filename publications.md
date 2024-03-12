@@ -4,9 +4,9 @@ title: Publications
 ---
 
 
-1. News and Views piece for the Yale Journal of Biology and Medicine's Big Data Issue: [Visualizing Publication Trends for Scientists](https://medicine.yale.edu/news-article/visualizing-publication-trends-for-scientists/) 
+1. [Visualizing Publication Trends for Scientists](https://medicine.yale.edu/news-article/visualizing-publication-trends-for-scientists/) 
 
-1. Bioconductor R Package: [PLASMUT](https://bioconductor.org/packages/release/bioc/html/plasmut.html), Vignette describing its application for [modeling the origin of mutations identified in a liquid biopsy](https://bioconductor.org/packages/release/bioc/vignettes/plasmut/inst/doc/plasmut.html)   
+1. [PLASMUT R package](https://bioconductor.org/packages/release/bioc/html/plasmut.html): modeling the origin of mutations identified in a liquid biopsy](https://bioconductor.org/packages/release/bioc/vignettes/plasmut/inst/doc/plasmut.html)
 
 1. [Detection and characterization of lung cancer using cell-free DNA fragmentomes](https://doi.org/10.1038/s41467-021-24994-w)
 
