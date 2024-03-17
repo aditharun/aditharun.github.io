@@ -12,7 +12,7 @@ layout: default
 
  - [Let it be](https://www.youtube.com/watch?v=T94PHkuydcw). Lean in and be authentic to who you are. 
 
- - Compete. There are ebbs and flows in every game, [the tide can change quickly](https://www.youtube.com/watch?v=FyLPJ5JWZYk). [Focus only on the next point](https://bleacherreport.com/articles/451220-us-open-is-rafael-nadal-the-greatest-competitor-in-tennis-). 
+ - Compete. There are ebbs and flows in every game, [the tide can change quickly](https://www.youtube.com/watch?v=FyLPJ5JWZYk). [Focus only on the next point](https://www.youtube.com/watch?v=91kXZKq_wRE). 
 
  - Compete only with yourself. Try to be better that you were yesterday. And be happy if that is true. 
 
@@ -45,8 +45,9 @@ layout: default
  - [Where you come from](https://www.youtube.com/watch?v=Wb-KYXJ0-t0) is [strength](https://www.youtube.com/watch?v=nDsIy6kRhms)
 
  - [You don't have enough talent to win on talent alone](https://www.youtube.com/watch?v=2nR3reKPE5Y). Play your game, every possession, [doesn't matter the circumstance.](https://www.youtube.com/watch?v=PsSLKutFV5o) 
+- [Don't doubt yourself](https://blog.samaltman.com/dont-read-the-comments). [Be persistent long enough to give yourself a chance for luck to go your way](https://blog.samaltman.com/how-to-be-successful).
 
-- Don't doubt yourself. Dream. [When you want something, the whole world conspires to help you.](https://www.goodreads.com/quotes/5647-and-when-you-want-something-all-the-universe-conspires-in) [Be persistent long enough to give yourself a chance for luck to go your way](https://blog.samaltman.com/dont-read-the-comments).
+- Dream. [When you want something, the whole world conspires to help you.](https://www.goodreads.com/quotes/5647-and-when-you-want-something-all-the-universe-conspires-in) 
 
 
 
