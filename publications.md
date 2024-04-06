@@ -1,12 +1,17 @@
 ---
 layout: page
-title: Publications
+title: Scientific Work
 ---
 
+**Posters and Presentations**
 
-1. [Visualizing Publication Trends for Scientists](https://medicine.yale.edu/news-article/visualizing-publication-trends-for-scientists/) 
+1. [Hypertension excess mortality and years of potential life lost in Black Americans: a two-decade analysis including the COVID-19 pandemic](https://www.abstractsonline.com/pp8/#!/10973/presentation/12503), presentation at ACC 2024
 
-1. PLASMUT R [package](https://bioconductor.org/packages/release/bioc/html/plasmut.html): [modeling the origin of mutations identified in a liquid biopsy](https://bioconductor.org/packages/release/bioc/vignettes/plasmut/inst/doc/plasmut.html)
+1. [Excess ischemic heart disease mortality and years of potential life lost among the Black population: a two-decade analysis including the COVID-19 pandemic](https://www.abstractsonline.com/pp8/#!/10973/presentation/12156), presentation at ACC 2024
+
+1. [PLASMUT: An R Package for estimating the probability of tumor-specific mutations in cell-free DNA](https://aacrjournals.org/cancerres/article/84/6_Supplement/6101/740313), poster at AACR 2024
+
+**Publications**
 
 1. [Detection and characterization of lung cancer using cell-free DNA fragmentomes](https://doi.org/10.1038/s41467-021-24994-w)
 
@@ -26,5 +31,7 @@ title: Publications
 
 1. [Internal tremors and vibrations in long COVID: a cross-sectional study
 ](https://www.medrxiv.org/content/10.1101/2023.06.19.23291598v2)
+
+1. [Visualizing Publication Trends for Scientists](https://medicine.yale.edu/news-article/visualizing-publication-trends-for-scientists/) 
 
 Also on [Google Scholar](https://scholar.google.com/citations?hl=en&user=PVkjyqYAAAAJ)
