@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* A personal definition of artificial intelligence **[thoughts](posts/defining-AI.md)**
+
 * Can you dance depression away? **[some thoughts](posts/treating-depression.md)**
 
 * Use of GLP-1 drugs in post-operative bariatric surgery patients **[slide deck](posts/glp1-post-mbs.md)**
