@@ -6,7 +6,7 @@ layout: default
 
  - Richie in The Bear. [Specifically](https://www.youtube.com/watch?v=sK8XSIVhsE4&pp=ygURcmljaGllIHMyIGU3IGJlYXI%3D), [S2](https://www.youtube.com/watch?v=HweVkp-dCsE&pp=ygURcmljaGllIHMyIGU3IGJlYXI%3D) [E7](https://www.youtube.com/watch?v=1ABxxKbqXhc&pp=ygURcmljaGllIHMyIGU3IGJlYXI%3D) 
 
- - Life is a gift. It is short. Relentlessly do what you want to do. Be grateful for today. 
+ - Life is a gift, enjoy every moment, this moment. It is short. Relentlessly do what you want to do. Be grateful for today. 
 
  - You're going to get knocked down, [will you get back up?](https://www.youtube.com/watch?v=D_Vg4uyYwEk) Choose to [be resiliant](https://www.youtube.com/watch?v=9XOj3Omc9GY) 
 
@@ -32,7 +32,7 @@ layout: default
 
  - [Good Will Hunting, the bar scene](https://www.youtube.com/watch?v=LMD2vUErcYU)
 
- - Go [try](https://x.com/BrianJJi/status/1721349290214211801?s=20) and fail, [see what it is you may be able to do](https://www.youtube.com/watch?v=2_fDhqRk_Ro).
+ - Go [try](https://x.com/BrianJJi/status/1721349290214211801?s=20) and fail, [see what it is you may be able to do](https://www.youtube.com/watch?v=2_fDhqRk_Ro). Just go and do. 
 
  - [Virat Kohli, who lacked discipline and resonance in his life, built it, came back and realized his potential.](https://www.youtube.com/watch?v=cOAOafJcB3U)
 
@@ -45,10 +45,13 @@ layout: default
  - [Where you come from](https://www.youtube.com/watch?v=Wb-KYXJ0-t0) is [strength](https://www.youtube.com/watch?v=nDsIy6kRhms)
 
  - [You don't have enough talent to win on talent alone](https://www.youtube.com/watch?v=2nR3reKPE5Y). Play your game, every possession, [doesn't matter the circumstance.](https://www.youtube.com/watch?v=PsSLKutFV5o) 
+
 - [Don't doubt yourself](https://blog.samaltman.com/dont-read-the-comments). [Be persistent long enough to give yourself a chance for luck to go your way](https://blog.samaltman.com/how-to-be-successful).
 
 - Dream. [When you want something, the whole world conspires to help you.](https://www.goodreads.com/quotes/5647-and-when-you-want-something-all-the-universe-conspires-in) 
 
+
+- What will be will be. [Control only what you can control](https://dailystoic.com/control-and-choice/)
 
 
 
