@@ -66,6 +66,8 @@ title: Posts
 
 * Testing for Cranial Nerve 1 on head-to-toe physical exams **[thoughts](posts/olfactory-cn-pe-test.md)**
 
+* Meta outlook after Q1 2024 earnings **[rough thoughts][posts/meta.md]**
+
 * ML models for Chest CT based Autism Spectrum Disorder screening **[thoughts](posts/asd-pred-by-chestCT.md)**
 
 * Query genes for differential expression between neuron and non-neuronal brain cell populations **[site](shiny/allen_shiny.html)**
