@@ -3,13 +3,6 @@ layout: page
 title: Scientific Work
 ---
 
-**Posters and Presentations**
-
-1. [Hypertension excess mortality and years of potential life lost in Black Americans: a two-decade analysis including the COVID-19 pandemic](https://www.abstractsonline.com/pp8/#!/10973/presentation/12503), presentation at ACC 2024
-
-1. [Excess ischemic heart disease mortality and years of potential life lost among the Black population: a two-decade analysis including the COVID-19 pandemic](https://www.abstractsonline.com/pp8/#!/10973/presentation/12156), presentation at ACC 2024
-
-1. [PLASMUT: An R Package for estimating the probability of tumor-specific mutations in cell-free DNA](https://aacrjournals.org/cancerres/article/84/6_Supplement/6101/740313), poster at AACR 2024
 
 **Publications**
 
@@ -25,13 +18,28 @@ title: Scientific Work
 
 1. [Identification of integrin drug targets for 17 solid tumor types](https://doi.org/10.18632/oncotarget.25731)
 
+1. [Endovascular Stenting of External Iliac Vein Injury during Anterior Spine Exposure](https://www.jvscit.org/article/S2468-4287(24)00090-X/fulltext)
+
 1. [Native lamin A/C proteomes and novel partners from heart and skeletal muscle in a mouse chronic inflammation model of human frailty](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10626543/)
 
 1. [Post-Vaccination Syndrome: A Descriptive Analysis of Reported Symptoms and Patient Experiences After Covid-19 Immunization](https://www.medrxiv.org/content/10.1101/2023.11.09.23298266v1)
 
-1. [Internal tremors and vibrations in long COVID: a cross-sectional study
+1. [Internal tremors and vibrations in Long COVID: a cross-sectional study
 ](https://www.medrxiv.org/content/10.1101/2023.06.19.23291598v2)
+
+1. [Long COVID Characteristics and Experience: A Descriptive Study from the Yale LISTEN Research Cohort](https://www.amjmed.com/article/S0002-9343(24)00238-9/abstract)
+
+Also on [Google Scholar](https://scholar.google.com/citations?hl=en&user=PVkjyqYAAAAJ)
+
+**Posters and Presentations**
+
+1. [Hypertension excess mortality and years of potential life lost in Black Americans: a two-decade analysis including the COVID-19 pandemic](https://www.abstractsonline.com/pp8/#!/10973/presentation/12503), presentation at ACC 2024
+
+1. [Excess ischemic heart disease mortality and years of potential life lost among the Black population: a two-decade analysis including the COVID-19 pandemic](https://www.abstractsonline.com/pp8/#!/10973/presentation/12156), presentation at ACC 2024
+
+1. [PLASMUT: An R Package for estimating the probability of tumor-specific mutations in cell-free DNA](https://aacrjournals.org/cancerres/article/84/6_Supplement/6101/740313), poster at AACR 2024
+
+**News and Views**
 
 1. [Visualizing Publication Trends for Scientists](https://medicine.yale.edu/news-article/visualizing-publication-trends-for-scientists/) 
 
-Also on [Google Scholar](https://scholar.google.com/citations?hl=en&user=PVkjyqYAAAAJ)
