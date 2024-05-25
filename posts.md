@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* Lixisenatide in the treatment of early Parkinson's disease **[writeup](posts/lixisenatide-early-pd.md)**
+
 * A personal definition of artificial intelligence **[thoughts](posts/defining-AI.md)**
 
 * Can you dance depression away? **[some thoughts](posts/treating-depression.md)**
