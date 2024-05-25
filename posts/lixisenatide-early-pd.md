@@ -4,10 +4,10 @@ layout: default
 
 ### Trial of Lixisenatide in Early Parkinson's Disease
 
-**Summary** 
+**Summary**  
 Lixisenatide, a GLP-1 receptor agonist (GLP-1RA), plus dopaminergic therapy appears to halt the progression of motor disability in patients with early-stage Parkinson's disease but had gastrointestinal side-effects (i.e., nausea and vomiting). Lixisenatide seems to keep the motor symptoms from getting any worse if taken consistently. Dopaminergic therapy, which is standard of care currently, presents with a mild worsening of motor symptoms at 12 months in this trial. **If tolerable, a GLP-1RA on top of standard of care could be a good strategy to perserve motor capacity in Parkinson's disease patients**. Patients with early-stage Parkinson's less than 60 years old may experience greater benefit with GLP-1RA therapy. 
 
-**Thoughts**
+**Thoughts**  
 Lixisenatide is a GLP-1 receptor agonist used for treating diabetes and off-label for obesity made by Sanofi. It was FDA approved in July 2016 and discontinued it as of January 1, 2023. [They state](https://professionals.optumrx.com/content/dam/optum3/professional-optumrx/news/rxnews/drug-withdrawls/drugwithdrawal_adlyxin_2023-0117.pdf) it was "a business decision and was not due to safety of efficacy concerns". I am guessing this decision was made because patent protection for lixisenatide expired in 2020 and prescription volume decreased as other GLP-1RA's came into the market. We could look at claims data to understand prescribing trends of lixisenatide from 2020-2023, comparing it to semaglutide and other GLP-1RAs' prescription trends. 
 
 [Meissner et al 2024](https://pubmed.ncbi.nlm.nih.gov/38598572/) conducted a phase 2 double-blind randomized placebo-controlled trial to assess the effect of lixisenatide on the progression of motor disability in persons with Parkinson's disease. 
