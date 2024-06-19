@@ -12,11 +12,11 @@ layout: default
 
  - [Let it be](https://www.youtube.com/watch?v=T94PHkuydcw). Lean in and be authentic to who you are. 
 
- - Compete. There are ebbs and flows in every game, [the tide can change quickly](https://www.youtube.com/watch?v=FyLPJ5JWZYk). [Focus only on the next point](https://www.youtube.com/watch?v=91kXZKq_wRE). 
+ - Compete. There are ebbs and flows in every game, [the tide changes quickly](https://www.youtube.com/watch?v=FyLPJ5JWZYk). [Focus only on the next point](https://www.youtube.com/watch?v=91kXZKq_wRE). Small relative wins make big differences (see: [Federer](https://www.youtube.com/watch?v=pqWUuYTcG-o&t=6s))
 
  - Compete only with yourself. Try to be better that you were yesterday. And be happy if that is true. 
 
- - Believe in yourself. See [Brady's](https://rickgosselin.com/draft-review-tom-brady/) [draft report](https://www.patriots.com/news/tom-brady-draft-bio-111106). 
+ - Believe in yourself. See [Brady's](https://rickgosselin.com/draft-review-tom-brady/) [draft report](https://www.patriots.com/news/tom-brady-draft-bio-111106) and more importantly, [this clip](https://x.com/jakecrain_/status/1801272680458412460?s=46&t=3sMnPzK6Sti4HNBYqI1Q2A). Discipline, dedication, consistency. 
 
  - [To get what you want, deserve what you want.](https://www.conversationagent.com/2016/05/charlie-munger-the-safest-way-to-get-what-you-want-is-to-try-and-deserve-it.html) You become who you want to be.
 
