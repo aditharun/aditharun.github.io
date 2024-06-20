@@ -12,7 +12,7 @@ layout: default
 
  - [Let it be](https://www.youtube.com/watch?v=T94PHkuydcw). Lean in and be authentic to who you are. 
 
- - Compete. There are ebbs and flows in every game, [the tide changes quickly](https://www.youtube.com/watch?v=FyLPJ5JWZYk). [Focus only on the next point](https://www.youtube.com/watch?v=91kXZKq_wRE). Small relative wins make big differences (see: [Federer](https://www.youtube.com/watch?v=pqWUuYTcG-o&t=6s))
+ - Compete. There are ebbs and flows in every game, [the tide changes quickly](https://www.youtube.com/watch?v=FyLPJ5JWZYk). [Focus only on the next point](https://www.youtube.com/watch?v=91kXZKq_wRE). Don't get ahead of yourself. Point by point. 
 
  - Compete only with yourself. Try to be better that you were yesterday. And be happy if that is true. 
 

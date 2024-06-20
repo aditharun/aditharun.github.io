@@ -33,6 +33,8 @@ title: Posts
 
 * Designing fair multiple choice tests **[writeup](posts/designing-fair-tests.md)**
 
+* What is a good strategy for improvement? Consistency. **[thoughts](posts/consistent-improvement.md)**
+
 * CO2 levels in indoor spaces and its inverse relationship with cognitive ability **[thoughts](posts/CO2-monitoring.md)**
 
 * Streaming computation of statistical measures **[comments](posts/iterative-stat-measures.md)**
