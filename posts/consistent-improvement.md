@@ -10,7 +10,7 @@ Assume you start on some arbitrary scale at 1.
 
 Option A) 
 
-You get 1% better on Z% of days, where Z can take on values from 0 to 100. At year $t$, your value given that you begin at 1 will be $1.01^(365 \cdot t \cdot \frac{Z}{100})$. Given this, we can visualize your value at 6 months, 1 year, and 5 years as a function of Z: 
+You get 1% better on Z% of days, where Z can take on values from 0 to 100. At year $t$, your value given that you begin at 1 will be $1.01^{365 \cdot t \cdot \frac{Z}{100}}$. Given this, we can visualize your value at 6 months, 1 year, and 5 years as a function of Z: 
 
 ```
 library(tidyverse)
@@ -45,7 +45,7 @@ Improving every day for a half year and year leads to a 6x and 37x increase from
 
 Option B) 
 
-You grow in spurts with periods of rapid growth and the rest of the time staying flat. Suppose during these spurts you get 5% better each day for a short number of days and stay flat otherwise. At year $t$, your value is $1.05^(365*t*\frac{Z}{100})$. Z can technically be any number from 0 to 100 but since we are working in spurts, it is likely to be constrained to the lower end of that interval - somewhere between 0 and, at absolute maximum, 20. 
+You grow in spurts with periods of rapid growth and the rest of the time staying flat. Suppose during these spurts you get 5% better each day for a short number of days and stay flat otherwise. At year $t$, your value is $1.05^{365 \cdot t \cdot \frac{Z}{100}}$. Z can technically be any number from 0 to 100 but since we are working in spurts, it is likely to be constrained to the lower end of that interval - somewhere between 0 and, at absolute maximum, 20. 
 
 ```
 library(tidyverse)
