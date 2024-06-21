@@ -70,6 +70,8 @@ title: Posts
 
 * Testing for Cranial Nerve 1 on head-to-toe physical exams **[thoughts](posts/olfactory-cn-pe-test.md)**
 
+* In praise of wasting time **[thoughts](posts/phones.md)**
+
 * Meta outlook after Q1 2024 earnings **[rough thoughts](posts/meta.md)**
 
 * ML models for Chest CT based Autism Spectrum Disorder screening **[thoughts](posts/asd-pred-by-chestCT.md)**
