@@ -4,9 +4,9 @@ layout: default
 
 #### Phones
 
-My phone creates problems for me. It sucks my attention, energy, and peace of mind. Nothing interesting happens on social media. 
+My phone creates problems for me. It sucks my attention, energy, and peace of mind. Rarely does something interesting happens on social media. It seems more and more to me that the time needed to consistently see these interesting bits is not worth it. 
 
-Maybe 1 out of every 1000 times something interesting happens on social media. My Twitter is curated to be much more interesting - tech, medicine, and the markets. Scrolling on social media is escapism. The activation energy to do it is so low that it is the easiest possible thing to do at any moment to alleviate any non-positive feeling I may have, especially boredom. I feel drained after I scroll for a while. It is addicting and easy. 
+Maybe 1 out of every 200 times I log on does something interesting happen on social media. My Twitter is curated to be much more interesting - tech, medicine, and the markets. Scrolling on social media is escapism. The activation energy to do it is so low that it is the easiest possible thing to do at any moment to alleviate any non-positive feeling I may have, especially boredom. I feel drained after I scroll for a while. It is addicting and easy. 
 
 Watching super short form content fries your brain and paying attention to other people's hyper-curated moments creates a state of anxiety and depression. It creates a craving to play status games. On the other hand, retreating completing from social media makes it harder to communicate with your friends in a passive manner and get information on things you consider important. Having some online presence establishes proof-of-life to others who meet you in person or hear about you from someone else. It's a balance: negative mental health vs. passive communication and information. 
 
