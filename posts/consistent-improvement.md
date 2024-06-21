@@ -8,7 +8,9 @@ What is a good strategy for improvement? You can either a) improve incrementally
 
 Assume you start on some arbitrary scale at 1. 
 
-Option A) You get 1% better on Z% of days, where Z can take on values from 0 to 100. At year $t$, your value given that you begin at 1 will be $(1 + 0.01)^{365*t*\frac{Z}{100}}$. Given this, we can visualize your value at 6 months, 1 year, and 5 years as a function of Z: 
+Option A) 
+
+You get 1% better on Z% of days, where Z can take on values from 0 to 100. At year $t$, your value given that you begin at 1 will be $1.01^(365*t*\frac{Z}{100})$. Given this, we can visualize your value at 6 months, 1 year, and 5 years as a function of Z: 
 
 ```
 library(tidyverse)
@@ -34,14 +36,16 @@ cpal <- palette.colors(palette = "Okabe-Ito") %>% unname()
 
 ```
 
-![<img src="increment-growth" width="100"/>](/posts_code/increment-growth.png)
+![<img src="increment-growth" width="60"/>](/posts_code/increment-growth.png)
 
 
 Improving every day for a half year and year leads to a 6x and 37x increase from baseline respectively. Small gains continuously compounded make a big difference. 
 
 **Even improving on just 80% of days by 1% leads to a 5x increase from baseline in a half year. In 1 year, this is a 18x increase from baseline.** This translates to improving on 24 out of 30 days - 6 non-improvement days per month. If you improve 5 days a week, for a half year, at 1%, that translates to a 3.65x increase from baseline. 
 
-Option B) You grow in spurts with periods of rapid growth and the rest of the time staying flat. Suppose during these spurts you get 5% better each day for a short number of days and stay flat otherwise. At year $t$, your value is $(1 + 0.05)^{365*t*\frac{Z}{100}}$. Z can technically be any number from 0 to 100 but since we are working in spurts, it is likely to be constrained to the lower end of that interval - somewhere between 0 and, at absolute maximum, 20. 
+Option B) 
+
+You grow in spurts with periods of rapid growth and the rest of the time staying flat. Suppose during these spurts you get 5% better each day for a short number of days and stay flat otherwise. At year $t$, your value is $1.05^(365*t*\frac{Z}{100})$. Z can technically be any number from 0 to 100 but since we are working in spurts, it is likely to be constrained to the lower end of that interval - somewhere between 0 and, at absolute maximum, 20. 
 
 ```
 library(tidyverse)
@@ -61,7 +65,7 @@ cpal <- palette.colors(palette = "Okabe-Ito") %>% unname()
 
 ```
 
-![<img src="spurt-growth" width="100"/>](/posts_code/spurt-growth.png)
+![<img src="spurt-growth" width="60"/>](/posts_code/spurt-growth.png)
 
 
 In a year, improving in spurts on 20% of days results in a 35x increase from baseline - roughly the same as a 1% improvement on 100% of days. **In a half year, improving on at least 18% of days translates to a 5x increase from baseline.** This translates, roughly, 6 days a month on average of 5% improvements. This is a large ask. Consider that staying flat or maintainence takes energy and effort too and this becomes that much harder. Basically, on weekends you must accelerate yourself 5% week over week. 
