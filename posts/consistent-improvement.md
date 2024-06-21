@@ -10,7 +10,7 @@ Assume you start on some arbitrary scale at 1.
 
 Option A) 
 
-You get 1% better on Z% of days, where Z can take on values from 0 to 100. At year $t$, your value given that you begin at 1 will be $1.01^(365*t*\frac{Z}{100})$. Given this, we can visualize your value at 6 months, 1 year, and 5 years as a function of Z: 
+You get 1% better on Z% of days, where Z can take on values from 0 to 100. At year $t$, your value given that you begin at 1 will be $1.01^(365 \cdot t \cdot \frac{Z}{100})$. Given this, we can visualize your value at 6 months, 1 year, and 5 years as a function of Z: 
 
 ```
 library(tidyverse)
