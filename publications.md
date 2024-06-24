@@ -8,6 +8,8 @@ title: Scientific Work
 
 1. [Detection and characterization of lung cancer using cell-free DNA fragmentomes](https://doi.org/10.1038/s41467-021-24994-w)
 
+1. [Excess Cardiovascular Mortality Among Black Americans 2000-2022: A JACC Report Card](https://www.jacc.org/doi/10.1016/j.jacc.2024.06.004)
+
 1. [The Fermi–Dirac distribution provides a calibrated probabilistic output for binary classifiers](https://doi.org/10.1073/pnas.2100761118)
 
 1. [Metastatic colorectal cancer treatment response evaluation by ultra-deep sequencing of cell-free DNA and matched white blood cells](https://pubmed.ncbi.nlm.nih.gov/36534496/)
@@ -29,7 +31,6 @@ title: Scientific Work
 
 1. [Long COVID Characteristics and Experience: A Descriptive Study from the Yale LISTEN Research Cohort](https://www.amjmed.com/article/S0002-9343(24)00238-9/abstract)
 
-Also on [Google Scholar](https://scholar.google.com/citations?hl=en&user=PVkjyqYAAAAJ)
 
 **Posters and Presentations**
 
@@ -42,4 +43,7 @@ Also on [Google Scholar](https://scholar.google.com/citations?hl=en&user=PVkjyqY
 **News and Views**
 
 1. [Visualizing Publication Trends for Scientists](https://medicine.yale.edu/news-article/visualizing-publication-trends-for-scientists/) 
+
+Also on [Google Scholar](https://scholar.google.com/citations?hl=en&user=PVkjyqYAAAAJ)
+
 
