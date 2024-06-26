@@ -7,6 +7,8 @@ title: Posts
 
 * A personal definition of artificial intelligence **[thoughts](posts/defining-AI.md)**
 
+* Dosing Trader Joe's cold brew coffee concentrate **[notes](posts/measuring-tj-coffee.md)**
+
 * Can you dance depression away? **[some thoughts](posts/treating-depression.md)**
 
 * Use of GLP-1 drugs in post-operative bariatric surgery patients **[slide deck](posts/glp1-post-mbs.md)**
