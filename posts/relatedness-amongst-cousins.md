@@ -6,7 +6,7 @@ layout: default
 
 Let's think about how much DNA two people share based on their connection within the family tree. Then we'll arrive at a formula to determine how much DNA you share with any given cousin.  
 
-We assume that if two people share the same biological parents, then they share 50% of their DNA. This is an approximation and not always true, but more or less it works. (Even at random humans share a lot of base-pair similarity, but here we refer to shared genetic material in the coloquial popular science way)
+We assume that if two people share the same biological parents, then they share 50% of their DNA. This is an approximation and not always true, but more or less it works. 
 
 My mother and her siblings share 50% of their DNA. My mother's siblings childrens share 25% of their DNA with my mother. Note that I share 50% of my DNA with my mother. Therefore, I share 12.5% (0.25 * 0.5 = 0.125) of my DNA with my mother's siblings children, or first cousins. **Any two first cousins share 12.5% (1/8) of their genetic material**
 
