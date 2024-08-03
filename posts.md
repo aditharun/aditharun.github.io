@@ -80,6 +80,6 @@ title: Posts
 
 * ML models for Chest CT based Autism Spectrum Disorder screening **[thoughts](posts/asd-pred-by-chestCT.md)**
 
-* Query genes for differential expression between neuron and non-neuronal brain cell populations **[site](shiny/allen_shiny.html)**
+* Expression levels and differentially expressed genes across major brain cell types **[site](posts/frailty-laminome-allen-analyses.md)**; genes ranked from mostly expressed in glial cells to those not expressed in glial cells along with p-value representing whether they are differentially expressed in glial cells relative non-glial brain cells **[site](posts/frailty-laminome-mice-brain-allen-glial-contributions.md)**
 
 * Take more at-bats **[notes](posts/take-more-at-bats.md)**
