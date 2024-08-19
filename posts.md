@@ -61,6 +61,8 @@ title: Posts
 
 * Testing for "statistically significant" differences between groups: code and some theory **[notes and code](posts/multiple-correction.md)**
 
+* Suturing a juggling ball after it was ripped open **[experience](posts/repairing-a-juggling-ball.md)**
+
 * A way to summarize across columns while preserving total row-wise probabilities **[quick note](posts/column-wise-means.md)**
 
 * Tracking hair density over time **[demo and short description](posts/tracking-hair.md)**
