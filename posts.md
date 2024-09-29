@@ -5,6 +5,8 @@ title: Posts
 
 * Lixisenatide in the treatment of early Parkinson's disease **[writeup](posts/lixisenatide-early-pd.md)**
 
+* GLP1 drugs **[memo](posts/glp1-drugs.md)**
+
 * A personal definition of artificial intelligence **[thoughts](posts/defining-AI.md)**
 
 * Dosing Trader Joe's cold brew coffee concentrate **[notes](posts/measuring-tj-coffee.md)**
