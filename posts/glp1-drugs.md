@@ -50,7 +50,7 @@ Lixisenatide, exanitide, liraglutide, and other older-generation GLP-1RA's will 
 
 	- Oral semaglutide, Rybelsus, is FDA-approved for better glycemic control in T2DM [(FDA statement)](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-glp-1-treatment-type-2-diabetes). The PIONEER 2 trial assessed Rybelsus' efficacy for people with T2DM using metformin and observed average A1C drop 1.3% points and after one year had lost ~10 pounds. The weight loss effect is not as profound in part because oral bioavailability is worse than intramuscular bioavailability. The dose needs to be increased significantly to get similar effects which may confer worse side effects. Novo Nordisk is currently pushing for approval for a higher dose of Rybelsus. THe FDA label states that you should take Rybelsus on an empty stomach in the morning with no more than 4 ounces of water and should wait at least 30 minutes before taking the pill. Patients may not adhere to these instructions because they are somewhat confusing and likely difficult to follow with the other medications they are asked to take. The [PIONEER PLUS](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01127-3/fulltext) trial showed good glycemic control with 50mg oral semaglutide for 52 weeks associated with tolerable side effects and ~70% had >5% weight loss. 
 
-	- Semaglutide 2.4mg results in average of 14.9% weight loss at 68 weeks in obese non-T2DM adults [(Wilding 2021)](https://pubmed.ncbi.nlm.nih.gov/33567185/). Semaglutide 2.4mg in overweight or obese T2DM adults results in average of 10% [(Davies 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00213-0/abstract). Semaglutide 2.4mg and intensive behavior therapy and low-calorie diet in overweight or obese adults lost on average 16% of their weight [(Wadden 2021)](https://pubmed.ncbi.nlm.nih.gov/33625476/). Semaglutide is needed to maintain weight loss - Overweight and obese adults regained 7% of their weight in 48 weeks after discontinuing semaglutide post-20 weeks of therapy whereas those who continued experienced an additional 8% weight loss [Rubino 2021](https://pubmed.ncbi.nlm.nih.gov/33755728/). 
+	- Semaglutide 2.4mg results in average of 14.9% weight loss at 68 weeks in obese non-T2DM adults [(Wilding 2021)](https://pubmed.ncbi.nlm.nih.gov/33567185/). Semaglutide 2.4mg in overweight or obese T2DM adults results in average of 10% [(Davies 2021)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00213-0/abstract). Semaglutide 2.4mg and intensive behavior therapy and low-calorie diet in overweight or obese adults lost on average 16% of their weight [(Wadden 2021)](https://pubmed.ncbi.nlm.nih.gov/33625476/). Semaglutide is needed to maintain weight loss - Overweight and obese adults regained 7% of their weight in 48 weeks after discontinuing semaglutide post-20 weeks of therapy whereas those who continued experienced an additional 8% weight loss [(Rubino 2021)](https://pubmed.ncbi.nlm.nih.gov/33755728/). 
 
 	- Indications: 
 		- Obese or overweight adults with CVD to reduce MACE **FDA approved, Wegovy**
@@ -60,9 +60,9 @@ Lixisenatide, exanitide, liraglutide, and other older-generation GLP-1RA's will 
 		- Adults with T2DM and CVD to reduce MACE **FDA approved, Ozempic**
 
 
-		- NASH: (https://www.nejm.org/doi/full/10.1056/NEJMoa2028395), (https://www.thelancet.com/journals/langas/article/PIIS2468-1253(23)00068-7/fulltext)
-		- CKD: (https://www.nejm.org/doi/full/10.1056/NEJMoa2403347)
-		- Addiction: (https://www.nature.com/articles/s41467-024-48780-6, https://pubmed.ncbi.nlm.nih.gov/37192005/, https://news.unchealthcare.org/2024/06/clinical-trial-on-semaglutide-shows-promise-for-treatment-of-alcohol-use-disorder-warrants-further-trials/)
+		- NASH: [study](https://www.nejm.org/doi/full/10.1056/NEJMoa2028395), [study 2](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(23)00068-7/fulltext)
+		- CKD: [study](https://www.nejm.org/doi/full/10.1056/NEJMoa2403347)
+		- Addiction: [paper](https://www.nature.com/articles/s41467-024-48780-6), [paper 2](https://pubmed.ncbi.nlm.nih.gov/37192005/), [press release](https://news.unchealthcare.org/2024/06/clinical-trial-on-semaglutide-shows-promise-for-treatment-of-alcohol-use-disorder-warrants-further-trials/)
 
 - Trizapetide (Zepbound and Mounjaro), a dual GLP-1RA and GIP (gastric inhibitory peptide) agonist. Zepbound and Mounjaro differ in their dosing schedules and indications but the active compound is the same. 
 
@@ -71,9 +71,9 @@ Lixisenatide, exanitide, liraglutide, and other older-generation GLP-1RA's will 
 		- T2DM **[FDA approved](https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215866s000lbl.pdf), Mounjaro**
 
 
-		- MASH: (https://www.nejm.org/doi/full/10.1056/NEJMoa2401943)
-		- MAFLD (retratutide: https://www.nature.com/articles/s41591-024-03018-2)
-		- OSA (zepbound) (decision by EOY 2024) (https://www.cnbc.com/2024/06/21/eli-lilly-expects-fda-decision-on-zepbound-for-sleep-apnea-as-early-as-end-of-year.html) with results presented here (https://investor.lilly.com/news-releases/news-release-details/lillys-tirzepatide-reduced-obstructive-sleep-apnea-osa-severity)
+		- MASH: [study](https://www.nejm.org/doi/full/10.1056/NEJMoa2401943)
+		- MAFLD: [retratutide](https://www.nature.com/articles/s41591-024-03018-2)
+		- OSA:  [zepbound, decision by EOY 2024](https://www.cnbc.com/2024/06/21/eli-lilly-expects-fda-decision-on-zepbound-for-sleep-apnea-as-early-as-end-of-year.html) with results presented [here](https://investor.lilly.com/news-releases/news-release-details/lillys-tirzepatide-reduced-obstructive-sleep-apnea-osa-severity)
 
 
 For MASH, trizapetide appears to be better at improving liver fibrosis stage compared to semaglutide. These are early data but encouraging for trizapetide. When looking at patients with improving liver fibrosis, 55% and 51% in the 5 mg and 10 mg trizapetide group compared to 30% in placebo whereas 43% in 0.4mg semaglutide compared to 33% in placebo. The semaglutide studies concluded no significant different whereas the trizapetide concluded that there was a significant difference. 
@@ -84,7 +84,7 @@ Broadly, for both semaglutide and tirzepatide, there was a decreased risk of obe
 
 There is some off-label use of GLP-1RAs in treating PCOS-related infertility by OB/GYNs. The typical use is 6 months of GLP-1RA and contraception then getting off both and trying to conceive. There is no clinical trial yet to suggest that GLP1-RAs are effective in approaching infertility. 
 
-GLP-1s limit cravings which can be helpful in addiction, specifically alcohol. It has been noted that people report drinking less while on GLP-1s. There is very limited evidence to suggest GLP-1s help addiction but literature is building [(here, ](https://www.nature.com/articles/s41467-024-48780-6), [here, ](https://pubmed.ncbi.nlm.nih.gov/37192005/), [here)](https://news.unchealthcare.org/2024/06/clinical-trial-on-semaglutide-shows-promise-for-treatment-of-alcohol-use-disorder-warrants-further-trials/). 
+GLP-1s limit cravings which can be helpful in addiction, specifically alcohol. It has been noted that people report drinking less while on GLP-1s. There is very limited evidence to suggest GLP-1s help addiction but literature is building [(here](https://www.nature.com/articles/s41467-024-48780-6), [here](https://pubmed.ncbi.nlm.nih.gov/37192005/), [and here)](https://news.unchealthcare.org/2024/06/clinical-trial-on-semaglutide-shows-promise-for-treatment-of-alcohol-use-disorder-warrants-further-trials/). 
 
 - Roche has two drugs: injectable once weekly subcutaneous (CT-388) and oral drug (CT-996) that are in their pipeline that have completed phase 1 trials. 
 	
@@ -92,7 +92,7 @@ GLP-1s limit cravings which can be helpful in addiction, specifically alcohol. I
 
 	- CT-996 for both T2DM and obesity had topline results of placebo-adjusted average weight loss of 6% after 4 weeks in their phase 1 trial. [Document](https://assets.roche.com/f/176343/x/fef5ab5ecf/17072024_ct-966-phase-i-results_en.pdf)
 
-	[Readout](https://assets.roche.com/f/176343/x/26b92ed3d9/irp240725-a.pdf) of the phase 1 cohort 11 and 12 of CT-388 and the phase 1 4 week data of CT-388 will be reported Sept 13, 2024. (?)
+	- [Readout](https://assets.roche.com/f/176343/x/26b92ed3d9/irp240725-a.pdf) of the phase 1 cohort 11 and 12 of CT-388 and the phase 1 4 week data of CT-388 will be reported Sept 13, 2024
 
 In fact, Roche anticipates that based on current study data, the unique oral GLP-1 RA CT-966 could be used as maintenance treatment after weight loss induced by injectable medications in the class.
 
@@ -100,7 +100,7 @@ Roche joins other pharma companies with its entry into the oral incretin-based w
 
 Amgen is in phase 3 trials for [maritide, a GLP-1RA and GIPR antaongist](https://www.nature.com/articles/s42255-023-00966-w). This is interesting because tirzepatide is a GLP-1RA and GIPR agonist. Randy Seeley in his presentation from AACR 2024 on anti-obesity medications [was not convinced](https://twitter.com/leilei_wuu/status/1773015025914892760) that the GIPR antagonist strategy will be as successful as a GIPR agonist approach. Amgen data for their GIPR antagonist strategy appears to come from adipocytes. Randy suggested that much of the benefit of semaglutide and tirzepatide comes from its effects on the brain rather than peripheral cells. 
 
-This paper from Dec 2023, from fellow Yale medical student Ashwin Chetty does a great job covering the clinical trials of GLP1 drugs at the time of publication: https://www.sciencedirect.com/science/article/pii/S1530891X23007905. 
+This paper from Dec 2023, from fellow Yale medical student Ashwin Chetty does a great job covering the clinical trials of GLP1 drugs at the time of publication: [(Chetty et al)](https://www.sciencedirect.com/science/article/pii/S1530891X23007905). 
 
 
 There are many targets besides GLP-1, and GIP. These include PYY, glucagon, amylin, and activin. Some of these like amylin are being targeted by [current trials](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01751-7/abstract). 
@@ -116,19 +116,19 @@ GLP-1s carry a risk of gallstone pancreatitis. About 2% of patients on semagluti
 Ania Jastreboff, who led the SURMOUNT trizapetide trial, states that these side effects are transient and preventable with proper dose escalation strategies. Specifically, she recommends the provider up-titrates slowly and tailors each program to the individual. Essentially, go slowly to avoid side effects and have a physician who is experienced with this work with you. In talking to other physicians who prescribe a lot of GLP-1s or have used them, they also echo these sentiments. 
 
 Of course, a small minority of people will not tolerate the drug. But, the same is true of statins and basically every drug. There is [some concern](https://www.fda.gov/drugs/drug-safety-and-availability/update-fdas-ongoing-evaluation-reports-suicidal-thoughts-or-actions-patients-taking-certain-type
-) that GLP-1RAs carry an increased risk of suicidal ideation. Data from a recent JAMA internal medicine study (https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2823083) and Nature Medicine study (https://www.nature.com/articles/s41591-023-02672-2) find that suicide risk is not increased with GLP1 use. 
+) that GLP-1RAs carry an increased risk of suicidal ideation. Data from a recent JAMA internal medicine [study](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2823083) and Nature Medicine [study](https://www.nature.com/articles/s41591-023-02672-2) find that suicide risk is not increased with GLP1 use. 
 
 We do not know the long term safety profile of GLP-1RA drugs and the FDA has asked for approved GLP-1RA drugs to report long term safety data. 
 
-Absolute contraindications for GLP1-RAs are a history medullary thyroid cancer history, MEN2 status, and pregnancy. There is a moderate increase (HR 1.78 w/ 95% CI 1.04 to 3.05) in the risk of thyroid cancer following GLP-1RA use [(study)](https://diabetesjournals.org/care/article/46/2/384/147888/GLP-1-Receptor-Agonists-and-the-Risk-of-Thyroid). 
+Absolute contraindications for GLP1-RAs are a history medullary thyroid cancer history, MEN2 status, and pregnancy. There is a moderate increase (HR 1.78 w/ 95% CI 1.04 to 3.05) in the risk of thyroid cancer following GLP-1RA use [(Bezin et al)](https://diabetesjournals.org/care/article/46/2/384/147888/GLP-1-Receptor-Agonists-and-the-Risk-of-Thyroid). 
 
 2 year follow up data of patients on semalgutide revealed that 2.6% (1.3% in placebo) experienced gallbladder disorders, 8% (11.8% in placebo) experienced severe adverse side effects, and 82% experienced (54% in placebo) nausea/vomiting/diarrhea/constipation [(study)](https://www.nature.com/articles/s41591-022-02026-4?fromPaywallRec=false). Side effects are comparable with placebo in the patient population eligible to take semaglutide suggesting that outside of an increase in mild GI disturbances, the drug is tolerable. 
 
 The [American Society of Anesthesiology](https://www.asahq.org/about-asa/newsroom/news-releases/2023/06/american-society-of-anesthesiologists-consensus-based-guidance-on-preoperative) says to avoid GLP-1RAs 7 days prior to date of surgery. This may lead to missed doses and a re-titration of GLP-1 dosing after surgery and in-hospital recovery requiring close coordination with the original GLP-1 prescriber. Also, the pens come in fixed doses that cannot be manually adjusted so new pens with the proper doses need to be re-prescribed and may take more time in being delivered requiring further down-titration followed by up-titration. A [recent JAMA paper](https://jamanetwork.com/journals/jama/fullarticle/2817853) reports that in a retrospective study there was no worse outcomes for patients who did not stop GLP-1RAs prior to surgery compared to those that did. However, this study only measured ICU admission, aspiration pneumonitis, or respiratory failure within 7 days post-op. This is not a) an RCT, b) a complete list of adverse outcomes measured, or c) a sufficient enough time frame to make assessment. 
 
-In speaking with [Jenna Klimovich](https://www.acponline.org/sites/default/files/documents/about_acp/chapters/ct/04228021_230811104737.pdf), a physician at the CT VA who prescribes GLP-1RAs, she shared that most side effects occur when a new dose is started. So, in a dose escalation strategy that consists of four up-titrations over a month followed by a stable dose, the first 48 hours of each new dose for the first month will be accompanied by GI distress. Then, symptoms will subside till the next dose escalation. After a month, assuming no interruptions, symptoms should be minimal. 
+In speaking with [Jenna Klimovich](https://medicine.yale.edu/profile/jenna-klimovich/), a physician at the CT VA who prescribes GLP-1RAs, she shared that most side effects occur when a new dose is started. So, in a dose escalation strategy that consists of four up-titrations over a month followed by a stable dose, the first 48 hours of each new dose for the first month will be accompanied by GI distress. Then, symptoms will subside till the next dose escalation. After a month, assuming no interruptions, symptoms should be minimal. 
 
-Patients may lose a considerable amount of lean muscle mass if they do not dose escalate slowly. All patients on GLP-1RAs because of the risk of lean muscle mass loss and associated fractures and frailty should focus on strength training and protein intake. Since patients on GLP1-RAs consume less food by volume than they are normally able to, it may be beneficial to shape their food intake to be packed with protein and vegetables and if room is left over to continue to other foods. This may help prevent some of the lean muscle mass long if accompanied by resistance training. These measures are not cheap and are time intensive. 
+Patients may lose a considerable amount of lean muscle mass (see supplement of SURMOUNT trials for example) if they do not dose escalate slowly. All patients on GLP-1RAs because of the risk of lean muscle mass loss and associated fractures and frailty should focus on strength training and protein intake. Since patients on GLP1-RAs consume less food by volume than they are normally able to, it may be beneficial to shape their food intake to be packed with protein and vegetables and if room is left over to continue to other foods. This may help prevent some of the lean muscle mass long if accompanied by resistance training. These measures are not cheap and are time intensive. 
 
 
 ##### GLP-1 dosing strategies for weight loss and maintenance
