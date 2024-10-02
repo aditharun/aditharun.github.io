@@ -49,7 +49,7 @@ title: Scientific Work
 
 1. [Visualizing Publication Trends for Scientists](https://medicine.yale.edu/news-article/visualizing-publication-trends-for-scientists/) 
 
-**Software**
+**Software** 
 
 1. [PLASMUT, available on Bioconductor](https://bioconductor.org/packages/release/bioc/html/plasmut.html)
 
