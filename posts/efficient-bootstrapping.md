@@ -2,15 +2,16 @@
 layout: default
 ---
 
-#### Efficient Bootstrapping
+###### Efficient Bootstrapping
 
 
 ##### Defining the problem
 
 Suppose we have a matrix A with n rows and m columns. We perform matrix multiplications $f(A | q)$ where $q$ is a constant matrix to estimate $p$. In this case, $p$ is the percent of incident cancers in the U.S. with a given mutation. The matrix A is actually data from $n$ different mutations concatenated together such that the $f(A | q)$ results in a vector of length $n$ of the estimated $p$'s for each of the $n$ mutations. 
+
 Now, we care about estimating 95% confidence intervals for each $p$.   
 
-Each element of A, $A_{ij}$ is assumed to be drawn from a Poisson random variable with mean equal to $A_{ij}$. Therefore we can randomly resample $A$ and for each resample compute $f(A | q)$ to re-estimate $p$. Doing this $j$ many times, we arrive at $j$ estimates for each $p$ and can take the empirical 2.5% and 97.5% quantiles to estimate 95% confidence intervals. This is a classic bootstrap approach. But, consider that we have, in total, $10^6$ mutations or rows and $65$ columns in $A$ and we want $10^4$ resamples. 
+Each element of A, $A_{ij}$ is assumed to be drawn from a Poisson random variable with mean equal to $A_{ij}$. Therefore we can randomly resample $A$ and for each resample compute $f(A)$ to re-estimate $p$. Doing this $j$ many times, we arrive at $j$ estimates for each $p$ and can take the empirical 2.5% and 97.5% quantiles to estimate 95% confidence intervals. This is a classic bootstrap approach. But, consider that we have, in total, $10^6$ mutations or rows and $65$ columns in $A$ and we want $10^4$ resamples. 
 
 **How do we design an approach that accomplishes this task on a single local machine in the shortest time possible?**
 
@@ -69,7 +70,7 @@ From here, we can iterate through each resampled matrix stored in a list, perfor
 
 It takes 1 hour on a personal computer to generate 95% confidence intervals for mutation rates using 10,000 bootstrap samples of 1,000,000 mutatations across 65 cancer types. 
 
-I split this matrix of 1M rows into 20 even pieces corresponding to each amino acid. So, we have 20 jobs to do which will all roughly take 3 minutes. My computer has 8 cores, so I can run 8 matrices at the same time. At maximum, a core will have to process 3 sub-matrices meaning the entire task takes 9 minutes. 
+We split this matrix of 1M rows into 20 even pieces corresponding to each amino acid. So, we have 20 jobs to do which will all roughly take 3 minutes. My computer has 8 cores, so I can run 8 matrices at the same time. At maximum, a core will have to process 3 sub-matrices meaning the entire task takes 9 minutes. 
 
 
 
