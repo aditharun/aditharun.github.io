@@ -2,12 +2,12 @@
 layout: default
 ---
 
-###### Efficient Bootstrapping
+#### Efficient Bootstrapping
 
 
 ##### Defining the problem
 
-Suppose we have a matrix A with n rows and m columns. We perform matrix multiplications $f(A | q)$ where $q$ is a constant matrix to estimate $p$. In this case, $p$ is the percent of incident cancers in the U.S. with a given mutation. The matrix A is actually data from $n$ different mutations concatenated together such that the $f(A | q)$ results in a vector of length $n$ of the estimated $p$'s for each of the $n$ mutations. 
+Suppose we have a matrix A with n rows and m columns. We perform matrix multiplications $f(A,q)$ where $q$ is a constant matrix to estimate $p$. In this case, $p$ is the percent of incident cancers in the U.S. with a given mutation. The matrix A is actually data from $n$ different mutations concatenated together such that the $f(A)$ results in a vector of length $n$ of the estimated $p$'s for each of the $n$ mutations. 
 
 Now, we care about estimating 95% confidence intervals for each $p$.   
 
