@@ -7,6 +7,8 @@ title: Posts
 
 * GLP1 drugs **[memo](posts/glp1-drugs.md)**
 
+* Using sparse matrix representations to quickly estimate confidence intervals **[writeup](posts/efficient-bootstrapping.md)**
+
 * A personal definition of artificial intelligence **[thoughts](posts/defining-AI.md)**
 
 * Dosing Trader Joe's cold brew coffee concentrate **[notes](posts/measuring-tj-coffee.md)**
