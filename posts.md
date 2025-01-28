@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* Thinking about the science behind Lumina Probiotics, an anti-cavity product **[thoughts](posts/lumina-probiotics.md)**
+
 * Lixisenatide in the treatment of early Parkinson's disease **[writeup](posts/lixisenatide-early-pd.md)**
 
 * GLP1 drugs **[memo](posts/glp1-drugs.md)**
