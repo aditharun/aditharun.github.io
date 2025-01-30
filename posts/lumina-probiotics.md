@@ -2,9 +2,11 @@
 layout: default
 ---
 
-#### Thinking about the science behind [Lumina Probiotics](https://www.luminaprobiotic.com/)
+#### Thinking about the science behind Lumina Probiotics
 
-###### High-level overview of dental cavities and periodontal disease
+[Lumina probiotics](https://www.luminaprobiotic.com/), per their company website, "is a probiotic optimized through biodesign to rebalance your oral pH and inhibit the growth of acid-secreting bacteria, to protect enamel and freshen the mouth". It is marketed as an anti-cavity product. How does their product work? And what science backs up their work? 
+
+###### First, a high-level overview of cavities and periodontal disease
 
 Tooth demineralization by acids produced from bacterial metabolism in the mouth lead to cavities. First, bacteria (most often Streptococcus mutans) adhere to the tooth forming biofilms or plaque. Then, they metabolize carbohydrates which produce organic acids. This acid lowers the pH of the mouth leading to calcium and phosphate leach out of the tooth leading to cavity formation. Bacteria can colonize the dentin or pulp causing structural damage and pain. 
 
