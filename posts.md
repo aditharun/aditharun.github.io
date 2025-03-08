@@ -3,6 +3,8 @@ layout: page
 title: Posts
 ---
 
+* A possible mechanistic basis for aspiring preventing cancer metastases **[comments](posts/aspirin-cancer-mets.md)**
+
 * Thinking about the science behind Lumina Probiotics, an anti-cavity product **[thoughts](posts/lumina-probiotics.md)**
 
 * Lixisenatide in the treatment of early Parkinson's disease **[writeup](posts/lixisenatide-early-pd.md)**
