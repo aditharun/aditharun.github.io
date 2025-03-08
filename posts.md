@@ -3,7 +3,7 @@ layout: page
 title: Posts
 ---
 
-* A possible mechanistic basis for aspiring preventing cancer metastases **[comments](posts/aspirin-cancer-mets.md)**
+* A possible mechanistic basis for aspirin preventing cancer metastases **[comments](posts/aspirin-cancer-mets.md)**
 
 * Thinking about the science behind Lumina Probiotics, an anti-cavity product **[thoughts](posts/lumina-probiotics.md)**
 
