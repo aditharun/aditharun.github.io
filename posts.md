@@ -3,15 +3,19 @@ layout: page
 title: Posts
 ---
 
+* Re-evaluating the threshold for low testosterone **[Arun et. al. 2025](../posts_code/arun2025-low-testosterone-paper.pdf)**
+
 * A possible mechanistic basis for aspirin preventing cancer metastases **[comments](posts/aspirin-cancer-mets.md)**
+
+* Using sparse matrix representations to quickly estimate confidence intervals **[writeup](posts/efficient-bootstrapping.md)**
 
 * Thinking about the science behind Lumina Probiotics, an anti-cavity product **[thoughts](posts/lumina-probiotics.md)**
 
 * Lixisenatide in the treatment of early Parkinson's disease **[writeup](posts/lixisenatide-early-pd.md)**
 
-* GLP1 drugs **[memo](posts/glp1-drugs.md)**
+* Use of GLP-1 drugs in post-operative bariatric surgery patients **[slide deck](posts/glp1-post-mbs.md)**
 
-* Using sparse matrix representations to quickly estimate confidence intervals **[writeup](posts/efficient-bootstrapping.md)**
+* GLP1 drugs **[memo](posts/glp1-drugs.md)**
 
 * A personal definition of artificial intelligence **[thoughts](posts/defining-AI.md)**
 
@@ -19,7 +23,6 @@ title: Posts
 
 * Can you dance depression away? **[some thoughts](posts/treating-depression.md)**
 
-* Use of GLP-1 drugs in post-operative bariatric surgery patients **[slide deck](posts/glp1-post-mbs.md)**
 
 * Guessing numbers on an interval **[thoughts](posts/interval-number-choices.md)**
 
