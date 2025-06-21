@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Use of Anti-Obesity Medications in Post-Operative Metabolic and Bariatric Surgery Patients

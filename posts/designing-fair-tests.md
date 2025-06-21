@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Designing Fair Multiple Choice Tests

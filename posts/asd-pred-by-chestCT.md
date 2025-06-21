@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Thoughts on using chest CTs to screen for ASD  

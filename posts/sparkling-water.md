@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Understanding the risk profile of daily sparkling water

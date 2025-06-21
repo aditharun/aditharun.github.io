@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Potential mechanistic basis for aspirin preventing cancer metastases

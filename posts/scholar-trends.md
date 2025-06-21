@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Scholar Trends: Visualizing publication trends for scientists using google scholar data

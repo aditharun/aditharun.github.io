@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Monitoring CO2 Levels in Indoor Spaces

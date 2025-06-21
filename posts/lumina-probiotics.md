@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Thinking about the science behind Lumina Probiotics

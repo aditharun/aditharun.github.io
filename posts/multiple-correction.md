@@ -1,5 +1,8 @@
 ---
-layout: default
+layout: main
+title: "Multiple Hypothesis Testing Correction"
+date: 2024-01-01
+categories: [statistics, data-analysis, r-programming]
 ---
 
 #### Testing for "statistically significant" differences between groups: code and some theory

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Proteomics for ASCVD Risk Assessment

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### A Cornucopia of Processed Corn

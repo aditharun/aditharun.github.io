@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Humming stimulates nitric oxide production

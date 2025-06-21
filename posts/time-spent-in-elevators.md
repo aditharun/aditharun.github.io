@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Disappearing into the vacuum of elevators

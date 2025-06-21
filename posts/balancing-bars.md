@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Why does a barbell not tip when it is faces unbalanced weights?

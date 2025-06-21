@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### The Semiconductor Industry and Its Supply Chain

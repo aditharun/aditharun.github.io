@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Conducting N-of-1 Trials: A case study on how to find statin intolerant patients that are actually statin tolerant

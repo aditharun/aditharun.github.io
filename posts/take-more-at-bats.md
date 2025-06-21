@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Take more at-bats

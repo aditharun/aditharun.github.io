@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 ### Trial of Lixisenatide in Early Parkinson's Disease

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 ### Quantifying hair density and coverage over time

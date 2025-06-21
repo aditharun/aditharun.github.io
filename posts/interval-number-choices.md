@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Guessing numbers on the 1-100 interval

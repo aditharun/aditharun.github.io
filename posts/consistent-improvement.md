@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Getting 1% Better Every Day

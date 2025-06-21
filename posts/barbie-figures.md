@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### A Barbie theme for R plots

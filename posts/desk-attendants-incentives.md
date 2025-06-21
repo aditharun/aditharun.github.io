@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Structuring a model for desk attendants at help desks in airports

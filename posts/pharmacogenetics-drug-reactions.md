@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Drug choice informed by genome sequencing

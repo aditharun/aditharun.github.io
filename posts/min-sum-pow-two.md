@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: main
+mathjax: true
+title: "Minimum Sum of Powers of Two"
+date: 2024-01-01
+categories: [mathematics, algorithms, number-theory]
 ---
 
 

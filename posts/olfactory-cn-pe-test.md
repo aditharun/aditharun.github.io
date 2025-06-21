@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 ### Testing your olfactary nerve

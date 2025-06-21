@@ -1,0 +1,174 @@
+/* Code block styling - only within blog posts */
+.blog-post div.highlight pre,
+.blog-post pre,
+.blog-post .highlight {
+    background-color: #f5f5f5; /* Grey bubble background */
+    color: #333; /* Dark grey text */
+    padding: 1.2rem;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    overflow-x: auto;
+    margin: 1.5rem 0;
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, "Courier New", monospace;
+    font-size: 0.9em;
+    line-height: 1.4;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Enhanced code block styling with horizontal scroll at 75 characters - only in blog posts */
+.blog-post pre {
+    white-space: pre;
+    overflow-x: auto;
+    max-width: 100%;
+    width: 100%;
+}
+
+/* Remove double styling - reset highlight containers */
+.blog-post .highlight {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    box-shadow: none;
+}
+
+/* Style the actual code inside highlight containers */
+.blog-post .highlight pre {
+    background-color: #f5f5f5;
+    color: #333;
+    padding: 1.2rem;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 1.5rem 0;
+}
+
+/* Code within preformatted blocks */
+.blog-post pre > code {
+    background-color: transparent;
+    padding: 0;
+    border: 0;
+    white-space: pre;
+    font-size: inherit;
+    color: inherit;
+}
+
+/* Inline code styling - only in blog posts */
+.blog-post code {
+    background-color: #f0f0f0;
+    color: #d73a49;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, "Courier New", monospace;
+    font-size: 0.9em;
+    border: 1px solid #e1e4e8;
+}
+
+/* Don't style inline code that's inside pre blocks */
+.blog-post pre code {
+    background-color: transparent;
+    color: inherit;
+    padding: 0;
+    border: 0;
+    font-size: inherit;
+}
+
+/* LaTeX math styling improvements */
+.blog-post .MathJax_Display {
+    background-color: #fafafa !important;
+    border-left: 4px solid #007acc;
+    padding: 1rem 1.5rem !important;
+    margin: 2rem 0 !important;
+    border-radius: 6px !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08) !important;
+}
+
+/* Inline math styling */
+.blog-post .MathJax {
+    font-size: 1.1em !important;
+}
+
+/* General content improvements for academic formatting */
+.blog-post {
+    line-height: 1.7;
+    font-size: 1.1em;
+}
+
+.blog-post h1, .blog-post h2, .blog-post h3, .blog-post h4 {
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+    border-bottom: 2px solid #ecf0f1;
+    padding-bottom: 0.5rem;
+}
+
+.blog-post h4 {
+    color: #34495e;
+    font-size: 1.2em;
+    border-bottom: 1px solid #bdc3c7;
+}
+
+/* Blockquote styling for academic content */
+.blog-post blockquote {
+    background-color: #f8f9fa;
+    border-left: 4px solid #007acc;
+    margin: 1.5rem 0;
+    padding: 1rem 1.5rem;
+    font-style: italic;
+    color: #555;
+    border-radius: 0 4px 4px 0;
+}
+
+/* Table styling for academic content */
+.blog-post table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1.5rem 0;
+    font-size: 0.95em;
+}
+
+.blog-post table th,
+.blog-post table td {
+    border: 1px solid #ddd;
+    padding: 0.75rem;
+    text-align: left;
+}
+
+.blog-post table th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.blog-post table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* List styling improvements */
+.blog-post ul, .blog-post ol {
+    padding-left: 2rem;
+    margin: 1rem 0;
+}
+
+.blog-post li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+/* Image styling */
+.blog-post img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 1.5rem 0;
+}
+
+/* Caption styling */
+.blog-post .caption, .blog-post figcaption {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 0.5rem;
+} 

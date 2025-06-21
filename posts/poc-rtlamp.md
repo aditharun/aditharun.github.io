@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### HIV Point of Care (PoC) early detection and monitoring with RT-LAMP

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 ### Synced translation of lyrics on music streaming apps

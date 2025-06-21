@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 ### The column-wise mean in a matrix where each row sums to 1 preserves the simplex probability

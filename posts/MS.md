@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### A 30,000 foot view of Multiple Sclerosis
