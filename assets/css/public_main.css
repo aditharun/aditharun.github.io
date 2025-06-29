@@ -112,7 +112,7 @@ footer {
 
 .publication-list {
     list-style: none;
-    counter-reset: publication-counter 17;
+    counter-reset: publication-counter 18;
     padding-left: 0;
 }
 
