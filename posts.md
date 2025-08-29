@@ -46,6 +46,7 @@ title: Archive
     <li><a href="{% link posts/synced-translation-of-music.md %}">Karaoke-style translation of lyrics on music streaming apps</a></li>
     <li><a href="{% link shiny/income_ranker.html %}">If your job allows you to work remote, where should you move to maximize spending power?</a></li>
     <li><a href="{% link posts/paper-sharing-platform.md %}">A social ReadCube for passively broadening the science you read</a></li>
+    <li><a href="{% link posts/im-ranking-scheme-yale.md %}">Glimpse into formula used to rank residency applications post-interview</a></li>
     <li><a href="{% link posts/olfactory-cn-pe-test.md %}">Testing for Cranial Nerve 1 on head-to-toe physical exams</a></li>
     <li><a href="{% link posts/phones.md %}">In praise of wasting time</a></li>
     <li><a href="{% link posts/meta.md %}">Meta outlook after Q1 2024 earnings</a></li>
