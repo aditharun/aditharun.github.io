@@ -42,7 +42,6 @@ title: Archive
     <li><a href="{% link posts/multiple-correction.md %}">Testing for "statistically significant" differences between groups: code and some theory</a></li>
     <li><a href="{% link posts/repairing-a-juggling-ball.md %}">Suturing a juggling ball after it was ripped open</a></li>
     <li><a href="{% link posts/column-wise-means.md %}">A way to summarize across columns while preserving total row-wise probabilities</a></li>
-    <li><a href="{% link posts/tracking-hair.md %}">Tracking hair density over time</a></li>
     <li><a href="{% link posts/synced-translation-of-music.md %}">Karaoke-style translation of lyrics on music streaming apps</a></li>
     <li><a href="{% link shiny/income_ranker.html %}">If your job allows you to work remote, where should you move to maximize spending power?</a></li>
     <li><a href="{% link posts/paper-sharing-platform.md %}">A social ReadCube for passively broadening the science you read</a></li>
