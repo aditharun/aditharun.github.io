@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 ---
 
 #### Streaming computation of statistical measures
