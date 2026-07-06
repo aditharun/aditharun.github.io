@@ -67,14 +67,17 @@ li {
 
 .about-image {
     float: right;
-    width: 300px;
-    margin-left: 20px;
-    margin-bottom: 10px;
+    width: 380px;
+    margin-left: 24px;
+    margin-bottom: 12px;
 }
 
 .about-image img {
     width: 100%;
-    border-radius: 5px;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+    object-fit: contain;
 }
 
 .header-link,
@@ -180,9 +183,10 @@ pre, code {
     .about-image {
         float: none;
         width: 100%;
-        max-width: 300px;
+        max-width: 320px;
         margin-left: auto;
         margin-right: auto;
         margin-bottom: 20px;
+        display: block;
     }
 } 
