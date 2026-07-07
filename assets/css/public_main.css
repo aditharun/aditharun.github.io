@@ -67,7 +67,7 @@ li {
 
 .about-image {
     float: right;
-    width: 380px;
+    width: 228px;
     margin-left: 24px;
     margin-bottom: 12px;
 }
@@ -183,7 +183,7 @@ pre, code {
     .about-image {
         float: none;
         width: 100%;
-        max-width: 320px;
+        max-width: 192px;
         margin-left: auto;
         margin-right: auto;
         margin-bottom: 20px;
